@@ -1,7 +1,10 @@
+import threading
+
 import telebot
 import google.generativeai as genai
 import dotenv
 import os
+from flask import Flask
 
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
@@ -102,7 +105,7 @@ user_history = {}
 
 
 def generate_response(input_text, user_id):
-    history = custom_content+user_history.get(user_id, "")
+    history = custom_content + user_history.get(user_id, "")
     prompt = f"{history}\n\ninput: {input_text}\noutput: "
     response = model.generate_content([prompt])
 
@@ -119,4 +122,21 @@ def echo_all(message):
     bot.reply_to(message, output)
 
 
-bot.infinity_polling()
+def start_bot_polling():
+    bot.infinity_polling()
+
+
+polling_thread = threading.Thread(target=start_bot_polling)
+polling_thread.start()
+
+# Minimal Flask app for port binding
+app = Flask(__name__)
+
+
+@app.route('/')
+def home():
+    return "Bot is running!"
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=10000)
