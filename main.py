@@ -1,8 +1,11 @@
 import telebot
 import google.generativeai as genai
+import dotenv
+import os
 
-genai.configure(api_key="AIzaSyBh_LDiux37oI_a-Js9dXe3c4RGvMvXpbc")
-bot = telebot.TeleBot("7658923661:AAFjOxYkflOZVJf4Xix_ePdJ8LZwROsZVL8", parse_mode=None)
+dotenv.load_dotenv()
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+bot = telebot.TeleBot(os.getenv("TELEGRAM_API_KEY"), parse_mode=None)
 
 
 # Create the model
