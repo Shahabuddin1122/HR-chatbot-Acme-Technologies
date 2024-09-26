@@ -7,7 +7,6 @@ dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 bot = telebot.TeleBot(os.getenv("TELEGRAM_API_KEY"), parse_mode=None)
 
-
 # Create the model
 generation_config = {
     "temperature": 1,
@@ -99,21 +98,24 @@ custom_content = """
   output: 1.0  D‡Ïk¨t\n\nïay my›`i †Uwej-‡Pqvi, UvBjm& I Gwm-  Awd‡mi cwi‡ek my›`i K‡i bv eis my›`i\nAvPvi-e¨envi, k„•Ljv I bxwZgvjvi gva¨‡g GKwU `¶ Kv‡Ri cwi‡ek ˆZix nq| GKwU my¯’\nI my›`i Kv‡Ri cwi‡ek ˆZixi j‡¶ GwUGj Gi mevB‡K wb‡¤œv³ bxwZgvjv¸‡jv †g‡b Pjvi\nRb¨ Aby‡iva Kiv †Mj|\n\n \n\n \n\n2.0  Awdm\nmgqt\n\n2.1|\nAwd‡m mevB‡K 9 Uvi g‡a¨ Dcw¯’Z n‡Z n‡e|\n\n2.2|\n‡Kvb we‡kl Kvi‡b †`ix n‡j c~ev©‡ý Dchy³ KZ…©K¶/ wefvM‡K Rvbv‡Z n‡e|\n\n \n\n3.0  †cvkvK-cwi”Q`\nGes e¨w³MZ ¯^v_¨wewat\n\n3.1|\nAwd‡mi mevB‡K wbqwgZ †kf K‡i Avm‡Z n‡e|\n\n3.2|\ncÖ‡Z¨K Kg©KZ©v-Kg©Pvix‡K Awdm Dc‡hvMx cwi¯‹vi †cvkvK-cwi”Q` cwiavb Ki‡Z n‡e|\n\n3.3|\ncwi¯‹vi RyZv-‡gvRv cwiavb Ki‡Z n‡e|\n\n3.4|\ngy‡Li `yM©Ü n‡Z i¶v cvIqvi Rb¨ Wv³vix civgk©g‡Z gvD_Iqvk e¨envi Ki‡Z n‡e|\n\n3.5|\neM‡j `yM©Ü n‡Z i¶v cvIqvi Rb¨ wWI‡Wª›U e¨envi Ki‡Z n‡e|\n\n3.6|\nAwZwi³ RvuKRgK †cvkvK-cwi”Q` cwiavb †_‡K wb‡R‡K weiZ ivL‡Z n‡e\n\n3.7|\nAwZwi³ AjsKvi, mvR-m¾v cwinvi Ki‡Z n‡e|\n\n3.8|\nPzj wbqwgZ †K‡U myweb¨v¯Í Ae¯’vq ivL‡Z n‡e|\n\n3.9|\nnvZ cv‡qi bL wbqwgZ cwi¯‹vi I †K‡U †QvU ivL‡Z n‡e|\n\n3.10|\nAwd‡mi †h †Kvb †cÖvMÖv‡g Awd‡mi wba©vwiZ †cvkvK cwiavb Ki‡Z n‡e|\n\n3.11|\nAwd‡m m¨v‡Ûj c‡i Avmv A_ev Ihyi m¨v‡Ûj c‡i †NvivNywi m¤ú~b© wb‡la|\n\n \n\n \n\n4.0  Lvevit\n\n4.1|\n`ycy‡ii Lvevi 1Uv †_‡K 2:00 Uvi g‡a¨ †kl Ki‡Z n‡e|\n\n4.2|\n`ycy‡ii Lvev‡ii Rb¨ 30 wgwbU wbav©wiZ _vK‡e|\n\n4.3|\nLvIqvi c‡i wb‡Ri M¬vm-‡c¬U wb‡R cwi¯‹vi K‡i ivL‡Z n‡e|\n\n4.4|\nLvIqv †k‡l wb‡Ri RvqMv wb‡R‡K cwi¯‹vi K‡i ivL‡Z n‡e|\n\n4.5|\nïaygvÎ AwZw_i †¶‡Î Awdm ÷vd Pv-Kwd cwi‡ekb Ki‡e|\n\n4.6|\nevwni ‡_‡K Lvevi Avbv m¤ú~Y©fv‡e wbwl×| cÖ‡qvR‡b evB‡i wM‡q †L‡q Avm‡Z n‡e|\n\n \n\n \n\n5.0  Iqvkiæg\ne¨envit\n\n5.1|\nmKj Kg©KZv©-Kg©Pvix‡K wbav©wiZ Iqvkiyg e¨envi Ki‡Z n‡e|\n\n5.2|\nIqvkiyg h_vh_fv‡e e¨envi Ki‡Z n‡e|\n\n5.3|\nIqvkiyg e¨envi Kivi ci fvjfv‡e d¬¨vk Ki‡Z n‡e|\n\n5.4|\n†Lqvj ivL‡Z n‡e hv‡Z K‡gv‡Wi wig-Kfvi A_ev wig A_ev Iqvkiy‡gi †g‡S\n\ncvwb‡Z\nwf‡R bv hvq|\n\n5.5|\nIqvkiy‡gi †g‡S †Kvb Kvi‡b wf‡R _vK‡j mv‡_ mv‡_ my¨Bcvi A_ev wcqb‡K\n\ne‡j\ngywQ‡q wb‡Z  n‡e|\n\n5.6|\nhvi hvi †Zvqv‡j wb‡R msi¶Y Ki‡Z n‡e Ges cwi¯‹vi ivL‡Z n‡e|\n\n \n\n6.0  IhyLvbv\nI bvgvRt\n\n6.1|\nbvgv‡Ri RvgvZt †hvnit 15 wgwbU, Avmit 15 wgwbU| \n\n\n6.2|\nbvgv‡Ri c‡i RvqbvgvR h_vh_ ¯’v‡b wb‡R‡K ¸wQ‡q ivL‡Z n‡e|\n\n6.3|\nbvgv‡Ri cÖ‡qvRbxq mgq Qvov AwZwi³ mgq e¨envi Kiv n‡Z weiZ _vK‡Z n‡e|\n\n \n\n7.0  AwZw_/\nAf¨vMZt\n\n7.1|\nwiwmcmwbó mKj AwZwa/Af¨vMZ Gi weeib †iwRóv‡i wjwce× Ki‡eb|\n\n7.2|\nAwZw_/Af¨vMZ Awd‡mi hvi Kv‡Q G‡m‡Qb Zv‡K AewnZ Ki‡eb Ges AbygwZµ‡g Zvi Awd‡m\nwb‡q hv‡eb|\n\n7.3|\nAbygwZ bv cvIqv ch©šÍ Af¨_©bvi Rb¨ wbw`ó ¯’v‡b A‡c¶v Ki‡Z ej‡eb|\n\n7.4|\nwfwRUi‡K wb‡R wiwmf Kiv Ges wbav©wiZ K‡¶ ewm‡q wgwUs A_ev Avjvc Ki‡Z n‡e|\n\n \n\n \n\n8.0 mvaviY Awdm bxwZt\n\n8.1|\nAwd‡m †Kvb iKg ivR‰bwZK, ag©xq, e¨w³MZ I cvwievwiK Av‡jvPbv Kiv hv‡e bv|\n\n8.2|\n†Rv‡i kã K‡i K_v-ejv A_ev nvmv-nvwm Kiv hv‡e bv|\n\n8.3|\n†gvevB‡ji wis‡Uv‡bi kã mnbxq gvÎvq ivL‡Z n‡e|\n\n8.4|\nwb‡Ri †gvevBj ev Ab¨vb¨ `vgx wRwbmcÎ wb‡R‡KB mvg‡j ivL‡Z n‡e|\n\n8.5|\nAwd‡mi jvBU, d¨vb I Gwm webv Kvi‡b †Q‡o ivLv hv‡e bv Ges Awdm Z¨vM Kivi\n\nmgq\nG¸‡jv eÜ Av‡Q wKbv Zv wbwðZ Ki‡Z n‡e|\n\n8.6|\nAh_v wcª›Uv‡i wc›U †_‡K weiZ _vK‡Z n‡e Ges KvM‡Ri Dfq c„ôvi m‡e©v”P e¨envi\nwbwðZ Ki‡Z n‡e|\n\n8.7|\nAbygwZ e¨wZZ G‡K A‡b¨i †÷kbvixR, Kw¤úDUvi, j¨vcUc I †W· e¨envi †_‡K\n\nweiZ\n_vK‡Z n‡e|\n\n8.8|\n†Uwj‡dvb/ wcGweG·/ †gvevBj wZbwU wis‡Uv‡bi g‡a¨ aiv mvavib f`ªZvi g‡a¨ c‡o, ZvB\nGB  Af¨vmwU M‡o Zzj‡Z n‡e|\n\n8.9|\nwWcvU©‡g›Uvj †nW Ges wi‡cvwUs wmwbqi mycvifvBRvi‡K m¨vi/g¨vWvg e‡j m‡¤^vab\n\nKi‡Z\nn‡e|\n\n8.10|\nwgwUs A_ev †Uªwbs G wbav©wiZ mg‡qi c~‡e© Dcw¯’Z n‡Z n‡e|\n\n8.11|\nAwd‡mi  †Kvb cÖKvi ¸Re/ AvZsK Qov‡bv\nm¤ú~Y©fv‡e wbwl×|\n\n8.12|\nAwd‡mi †÷kbvix I Ab¨vb¨ Awdwmqvj hš¿cvwZ A_ev wRwbmcÎ webv\nKvi‡b e¨envi †_‡K weiZ _vK‡Z n‡e|\n\n8.13|\nwb‡Ri d‡UvKwc wb‡R‡KB Ki‡Z n‡e|\n\n8.14|\n†Kvb cÖKvi Akvjxb K_v-evZ©v †_‡K weiZ _vK‡Z n‡e|\n\n8.15|\nAwd‡m †dBmeyK A_ev Ab¨ †Kvb †mvk¨vj wgwWqv A_ev AcÖ‡qvRbxq B›Uvi‡bU mvBU A_ev\n†Kvb iKg Mvb-ev`¨ we‡kl Kvib e¨wZZ e¨envi G‡Kev‡iB wbwl×| †Kvb ai‡bi cY © mvBU\ne¨enviKvix aiv co‡j webv †bvwU‡m\nPvKzix n‡Z eiLv¯Í   Kiv n‡e|\n\n8.16|\nwb‡Ri cÖ‡qvR‡b †h †Kvb cÖKvi WvDb‡jvW wbwl×|\n\n8.17|\nwb‡Ri emvi RvqMv, †Uwej, †Pqvi, Kw¤úDUvi, j¨vcUc, wcª›Uvi wb‡R‡K cwi¯‹vi ivL‡Z\nn‡e|\n\n8.18|\nmevB mevB‡K c`gh©v`vi web¨v‡m m¤§vb Ki‡e|\n\n8.19|\nwmwbqi‡`i mv‡_ K_v evjvi mgq c‡K‡U nvZ bv ivLv A_ev †gvevBj  †dvb wiwmf bv Kiv|\n\n8.20|\nwgwUs‡qi mgq †gvevBj †dvb bxie  K‡i ivL‡Z\nn‡e Ges †Kvb Riyix Awdwmqv †dvb Avm‡j wgwUs iy‡gi  evB‡i wM‡q wiwmf Ki‡Z n‡e|\n\n8.21|\nAh_v Kvi‡b A_ev Mí-¸R‡ei gva¨‡g mgq bó Kiv †_‡K weiZ _vK‡Z n‡e|\n\n8.22|\nG‡K A‡b¨i †`vlv‡ivc Kiv †_‡K weiZ _vK‡Z n‡e|\n\n8.23|\nmevB ACME Gi wUg †g¤^vi wnmv‡e G‡K Aci‡K\nmn‡hvwMZv I mgš^‡qi gva¨‡g KvR  Ki‡Z  n‡e|,
 """
 
+user_history = {}
 
-def generate_response(input_text):
-    # Prepare the prompt
-    prompt = f"{custom_content}\n\ninput: {input_text}\noutput: "
-    # Generate the response
+
+def generate_response(input_text, user_id):
+    history = custom_content+user_history.get(user_id, "")
+    prompt = f"{history}\n\ninput: {input_text}\noutput: "
     response = model.generate_content([prompt])
 
-    # Return the generated text
+    new_entry = f"input: {input_text}\noutput: {response.text}\n"
+    user_history[user_id] = history + new_entry
     return response.text
 
 
 @bot.message_handler(func=lambda m: True)
 def echo_all(message):
     input_text = message.text
-    output = generate_response(input_text)
+    user_id = message.chat.id
+    output = generate_response(input_text, user_id)
     bot.reply_to(message, output)
 
 
