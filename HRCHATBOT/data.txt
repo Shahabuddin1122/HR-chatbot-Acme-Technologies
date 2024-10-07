@@ -1,0 +1,129 @@
+###Question###
+Who you are?,
+###Answer###
+You are a chatbot designed for ACME Technologies Ltd to answer HR-related questions. Acme Technologies Ltd, Org, started as a modest real estate developer by a group of retired military officers and engineers. Later it entered into the construction of industrial and commercial complexes with a different name called Acme Constructions. By following basic business ethics, like, timely delivery, quality of work, and stunning architecture, Acme Technologies Ltd came into the limelight. \n\nTo provide its own needs and the needs of the clients it started a business in the service sector with a separate company called Acme Services. \n\nOf late, it also extended its business in the field of information technology. Its venture in IT is named Acme AI. It’s mainly doing annotation now but in the future, it plans to enter the other fields of IT to be a part of smart Bangladesh.,
+
+###Question###
+What is the meaning of HR?,
+###Answer###
+HR stands for Human\nResources. It's a department within organizations responsible for managing\nemployee relations, hiring, training, benefits, and other personnel-related\nfunctions.,
+
+###Question###
+What are HR Policies?,
+###Answer###
+HR policies are\nguidelines that companies set for employee relations in the workplace. These\nstandardized rules ensure consistency by defining acceptable behavior,\noutlining employee expectations, detailing disciplinary procedures, and\nspecifying organizational responsibilities. Companies implement these policies\nto demonstrate their commitment to regulatory compliance, minimum employment\nstandards, training, diversity, and ethical practices.,
+
+###Question###
+What is The Leave Policy?,
+###Answer###
+Annual Leave (AL)\n\nEmployees who have worked\ncontinuously for a period of 01(one) year shall be entitled to 20 (twenty) days paid annual leave in\nthe every subsequent 12 (twelve) months of service.\n\n \n\nCasual Leave (CL)\n\n10 days in a calendar\nyear. Cannot be taken for more than 01 (one) day. It can be combined with any\nother leave and is non-cumulative. Allowed on pro-rata basis.\n\n \n\nSick Leave (SL)\n\n14 days sick leave in\na calendar year. Sick leave shall only be granted on the recommendation and\nunder issuance of certificate of a qualified registered doctor when it requires\nmore than two (2) days (‘initial’) to be cured, if the employee fails to\nfurnish the required documents, he/she shall be treated as absent, and any such\nabsence will be resulted into Leave Without Pay (LWP) during that absent\nperiod. Sick leave and Causal leave cannot be carried forward and accumulation\nis not allowed.,
+
+###Question###
+What is The Communication Policy?,
+###Answer###
+General: A corporate office uses\nvarious means of communication to better manage the corporate affairs. Modern\ntechnologies made these communication means vulnerable for hacking, information\nleakage and various kinds of cyber attacks. To better manage the communication\nissues and guard against the above threats it is important to have proper\npolicies and instructions.  \nAim: To lay down comprehensive\npolicies and instructions to ensure unhindered communication and guard against all kinds of information breach, hacking and cyber attacks. \nScope: This policy shall have instructions and directives on all\ncommunication tools namely: \n\na.     Phones\n(Land Phones, Cell Phones, IP Phones)\n\nb.     Email\n\nc.     Meetings\n\nd.     Internet \n\ne.     Social\nMedia (Viber, WhatsApp, Discord, Facebook, LinkedIn, Instagram, TikTok,\nYouTube)\n\n \n\nThis policy applies to all employees, contractors, suppliers and\npartners of the company.           \n\n            \n\nPhones:\n\nVarious types of phone communication will be used in the Group\nthat are given below:\n\na.     Land\nphones: Group Acme Corporate HQ and other concerns of Group Acme can have land\nphones as required to facilitate business, admin and communication needs. \n\n \n\nb.     Cell\nPhones: Cell phones will be used by all the Management Staffs in the group.\nPhone Sets are to be purchased individually but SIM will be provided to all the\nManagement Staffs of the Group. Management staffs have to use the company\nprovided SIM. In no circumstances, one will use personal SIM for official\ncommunication. Selected employees will be given cell phone allowance as per the\npolicy as revised time to time. List of SIMs are to be kept with HR as well as\nIT depts.  \n\n                            \ni.     Use: Limit\nprivate calls and texts using official SIM/phone. \n\n \n\n                           \nii.     Security:\nKeep your device secured always. Report missing and theft issues to IT/HR asap.\nDon’t open any link or attachment from any unknown sources.\n\n \n\n                          \niii.     Expenditure\nManagement: Monthly phone allowance given to each employee is to be used for\nvoice as well as data.\n\n \n\nc.     IP Phones:\nWork stations of the Group (as required) will be provided with a IP phone.\nIntra and inter office communication will be done through IP Phones. List of IP\nphones and numbers are to be           kept\nin the IT/HR depts. IT to ensure that all the IP Phones are operational all the\ntime all the users are appropriately trained on the proper use of phones..\n\n                        \n\nEmail:\n\n \n\nEmails are most important\nand reliable means of communication for the group. Following are to be adhered\nto in respect of email communication:\n\n \n\na.     Official\nEmail: Most of the employees (who needs to make written communication) will be\nallotted with an official email address. For official written communication all\nare to use official email. List of\n\n \n\nb.     official\nEmails are to be kept with HR and IT. Official communication through any other\nmail address is strictly forbidden. Disciplinary action will be taken for any\nviolation of this instruction.\n\nc.     Personal\nEmail: One may have personal Email but that can’t be used for any official\ncommunication. List of personal emails are also to be kept with HR and IT.\n\n \n\nd.     Response\nTime: Emails to be responded within 24 hours during business days.\n\n \n\ne.     Language:\nBoth English and Bangla can be used in email but the language has to be clear,\nrespectful, concise and professional.\n\n \n\nf.       Mail\nTiming: Avoid sending messages outside of working hours unless urgent.\n\n \n\nMeetings: \n\n \n\nMeeting is one of the\nimportant means of communication within and outside the group. Following to be\ncomplied in respect of meetings:\n\na.     Meetings to\nbe scheduled through company approved calendar system.\n\nb.     Prepare\nagendas and share it with participants in advance.\n\nc.     Start and\nend meetings in time.\n\nd.     Follow up\nwith meeting minutes and action items.\n\n \n\nInternet:\n\n \n\nInternet is the basis and carrier of all communication. Use of\nInternet should be as given below:\n\n\n Internet\n     connection will be given to all work stations in the offices, to all the\n     industrial construction sites, and to selected employees.\n Connections to be taken\n     from reliable service providers.\n All SIMs are also\n     to be connected with Internet.\n\n\n \n\nSocial Media:\n\n \n\nFollowing\nsocial media can be used in Group Acme for the purposes shown against them:\n\n \n\na.     Viber: For\nreporting construction progress and for communication between employees. We\nshall have following groups in the Viber: Construction, Real Estate, HR,\nLogistics & Attendance.\n\n \n\nb.     WhatsApp:\nFor voice and data communication between the employees. We shall have following\ngroups in the WhatsApp: Chairman’s Directives, Shuddhachar, Acme Directors,\nICE. Individual projects can have their own WhatsApp group.\n\n \n\nc.     Discord:\nFor internal operations, admin and written communication within Acme AI and\nalso with the clients.\n\n \n\nd.     Facebook:\nFor branding and sales promotion of the companies of the group.\n\n \n\ne.     LinkedIn:\nFor branding and promotional activities.\n\n \n\nf.        Instagram: For branding and promotional\nactivities targeting the younger group.\n\n \n\ng.     TikTok: For\nbranding and sales promotion.\n\n \n\nh.     YouTube:\nFor branding and sales promotion.\n\n \n\nUnauthorized\nuse of any of the Social Media Sites by anyone is strictly prohibited.\n\n \n\nDocumentation:\n\n \n\nDocumentation\nprocess in the Group shall be as under:\n\n \n\na.     Store and\nshare documents on the company’s designated cloud storage (e.g., Google Drive,\nSharePoint etc).\n\nb.     Use\nstandardized templates for reports and presentations.\n\nc.     Keep\ndocuments organized and accessible to relevant parties.\n\n \n\nExternal Communication:\n\n \n\nFollowing\nto be complied for external communication:\n\na.     All press\nreleases, interviews, and public statements must be approved by the Chairman.\nDirect media inquiries to the Chairman.\n\n \n\nb.     Employees\nshould follow the company’s social media norms like avoiding posting of\nconfidential or sensitive informations and being respectful and professional in\nall posts related to the company.\n\n \n\nc.     Provide\nclear and timely responses to customer inquiries and while interacting with the\ncustomers. Use the company’s customer service channels (e.g., email, phone,\nchat) for communication and maintain a professional and courteous tone.\n\n \n\nConfidentiality and\nSecurity: \n\n \n\nHead of IT\nalong with Head of HR will be the joint admin of the Social Media Apps. Use of\nthe social medias will be according to ‘need to use basis’.\n\n \n\na.     Confidential\nInformation:\n\n                                 \nI.        \nDo not share confidential information with unauthorized parties.\n\n                               \nII.        \nUse encrypted communication channels for sensitive information.\n\n \n\nd.     Data\nProtection:\n\n                                 \nI.        \nFollow the company’s data protection policy.\n\n                               \nII.        \nReport any data breaches or security incidents immediately.\n\n \n\nPassword Security: \n\n \n\nFollowing\nare the instructions for password:\n\na.     Where\npossible all communication tools will be password protected. \n\nb.     Password\nwill be disseminated on need to know basis only by the admin. \n\nc.     Unauthorised\ndissemination of password by anyone is strictly prohibited and punishable.\n\n \n\nCompliance and Monitoring:\n\n \n\na.     Compliance:\nAll employees must comply with this policy. Non-compliance will result in\ndisciplinary action.\n\nb.     Monitoring:\nThe company reserves the right to monitor communication channels to ensure\ncompliance with this policy.\n\n \n\nTraining and Support:\n\n \n\na.     Training:\nEmployees will receive training on effective communication practices.\n\nb.     Support:\nFor questions or support, contact the IT or HR Departments.\n\n \n\nReview and Updates:\n\n \n\nThis policy\nwill be reviewed annually and will be updated as necessary.,
+
+###Question###
+How Many Days of Annual Public\n     Holidays?,
+###Answer###
+Holidays list \n\n International Mother\nLanguage Day- 21st February \n\n Independence Day- 26 March \n\n Shab-e-qadr- (date depends\non moon cycle) \n\n Eid Al-Fitr- (date depends\non moon cycle) \n\n Bengali New Year- 14th April\n LaborDay/May Day- 1st May \n\n Eid Al-Adha- (date depends\non moon cycle) \n\n Victory Day- 16th December\nThe Company publishes at the beginning of the calendar year a list of paid\nholidays.,
+
+###Question###
+What is Increment Policy?,
+###Answer###
+a.       Must have completed one year in the company\n\nb. Increment\nwill be as under    \n\n1. Gen increment\n                                 2.5% of basic\n\n2. Yearly\nevaluation.                             \n7.5% of basic max\n\n3.\nPromotion.                                          3% of\nbasic\n\n4. Observations\nof the directors          3% of basic max\n\n5. Special\nachievements.                       5% of\nbasic max\n\n6. Discipline\ncases.                                \n-5% of basic max,
+
+###Question###
+What is the salary range for this position?,
+###Answer###
+Officer-16K\n\nExecutive- 20k\n\nSr. Executive-24K\n\nAsst. Manager-30k\n\nDeputy Manager-40k\n\nManager-60k\n\nAsst. General Manager-80k,
+
+###Question###
+Termination of employment?,
+###Answer###
+Unsatisfactory progress during\nprobation may result in extension of the probation period or termination from\nthe service, at the discretion of the Company. During the period of probation,\none month’s notice or payment of one month’s Basic salary in lieu of notice\nwill be required on either side for termination of employment. No reason need\nbe given for such termination,
+
+###Question###
+How Will my supervisor evaluate my\n     performance? Are there specific metrics I can see?,
+###Answer###
+First Three Month\n\n•      \nPerformance evaluation\n\n•      \nFeedback Sharing \n\n•      \nDevelopment assessment\n\n•      \nFollow up\n\n \n\nNext\nThree Month\n\n•      \nFinal evaluation\n\n•      \nFeedback shared\n\n•      \nService confirmed\n\n•      \nDiscontinued if not\nsatisfactory,
+
+###Question###
+What are the criterias for promotion?,
+###Answer###
+       \nNeeded for the company\n\n       \nTo complete 2 years\nservice from enrolment or from last promotion\n\n       \nShould have vacancy\n\n       \nPromotable in the eyes\nof the majority board members,
+
+###Question###
+Do You use HRM Software?,
+###Answer###
+we use ERP Software where HRM\nModule is included,
+
+###Question###
+What to do if you want to resign?,
+###Answer###
+You are obliged to serve\nminimum for two year after recruitment. Leave the job before this period\nwithout one month’s prior notice, can cause deduction of salary of one month.,
+
+###Question###
+What is the Exit Interview Process?,
+###Answer###
+To complete your exit\ninterview at Acme Technologies Ltd.: \n\nReceive the Form: You will be\ngiven an exit interview form by the HR department. Fill Out the Form: Complete\nthe form with your feedback and any other required information. \n\n \n\nSchedule the Interview:\nArrange a time for your exit interview with the MD and Chairman through HR. \n\nAttend the Interview:\nParticipate in the scheduled exit interview, where you will discuss your\nfeedback and experience with the MD and Chairman. This process ensures that\nyour feedback is heard and considered before your departure,
+
+###Question###
+What is the turnover rate of the company?,
+###Answer###
+last year, in 2023, the\nturnover rate was 74.56%.,
+
+###Question###
+What is the Job Description?,
+###Answer###
+We provide JD designation wise,
+
+###Question###
+How many departments are there in the company?,
+###Answer###
+       \nConstruction\n\n      \nReal Estate\n\n       \nAccounts\n\n       \nLogistic \n\n       \nMarketing\n\n       \nHR\n\n       \nIT\n\n       \nBudget\n\n       \nAudit\n\n       \nBizdev,
+
+###Question###
+What kind of working environment\n     will you give me?,
+###Answer###
+I expect collaboration,\nstructured hours, effective communication, access to resources, a supportive\nculture, and potential flexibility for remote work, varying by\ncompany and industry.,
+
+###Question###
+How many hours is the general\n     working time?,
+###Answer###
+General Working time 8 Hrs\nper day,
+
+###Question###
+Is there any over time?,
+###Answer###
+no, our company don’t allow\nover time,
+
+###Question###
+Are there any facilities to stay and\n     eat?,
+###Answer###
+There is no facilities to\nstay and eat,
+
+###Question###
+What percentage of Eid bonus is\n     there?,
+###Answer###
+Two festival bonuses are paid\nto the eligible employee in a year during 2 Eid festivals, each equivalent to\n50% of last drawn gross salary.\n\nFor new joiners, bonus is\ndisbursed based on the following table when they\n\nhave not completed 6 months or not been permanent:\n\n\n \n  \n  Service Tenure\n  \n  \n  Bonus amount\n  \n \n \n  \n  0 days to <1 months\n  \n  \n  0%\n  \n \n \n  \n  1 months to <2 months\n  \n  \n  4.16% of the gross salary\n  \n \n \n  \n  2 months to <3 months\n  \n  \n  8.32% of the gross salary\n  \n \n \n  \n  3 months to <4 months\n  \n  \n  12.48% of the gross salary\n  \n \n \n  \n  4 months to <5 months\n  \n  \n  16.64% of the gross salary\n  \n \n \n  \n  5 months to <6 months\n  \n  \n  20.8% of the gross salary\n  \n \n \n  \n  6 months and above\n  \n  \n  50% of the  gross salary,
+
+###Question###
+Provident fund, gratuity or not?,
+###Answer###
+we don’t have any policy\nabout provident fund & Gratuity.,
+
+###Question###
+Any extra payment on weekly, public\n     holiday duties?,
+###Answer###
+no, We don’t pay any extra payment on weekly pubic holiday duties,
+
+###Question###
+What is the duration of\n     apprenticeship and whether there are any increments during regularization?,
+###Answer###
+The Duration apprenticeship\nis 6 month & if his/her performance is satisfactory we provide increments\nafter being permanent.,
+
+###Question###
+What is your reporting system?,
+###Answer###
+All Employee need to report\nhis/her Immediate Senior Officer.

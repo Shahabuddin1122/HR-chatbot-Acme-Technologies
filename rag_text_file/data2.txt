@@ -1,0 +1,443 @@
+Q: Who founded Acme Technologies Ltd?
+A: Acme Technologies Ltd was founded by a group of retired military officers and engineers.
+Q: What was Acme Technologies Ltd's initial focus as a company?
+A: The company initially started as a modest real estate developer.
+Q: How did the company expand into the construction sector?
+A: Acme Technologies Ltd expanded into constructing industrial and commercial complexes under the name Acme Constructions.
+Q: What business ethics does Acme Technologies Ltd follow to ensure its success?
+A: The company follows basic business ethics such as timely delivery, maintaining the quality of works, and focusing on stunning architecture.
+Q: How did Acme Technologies Ltd gain prominence in the industry?
+A: Through its commitment to business ethics, Acme Technologies Ltd gained prominence and came into the limelight.
+Q: Why did Acme Technologies Ltd create a new company, Acme Services?
+A: To meet its own needs and the needs of its clients in the service sector, Acme Technologies Ltd created a separate company called Acme Services.
+Q: What new business sector has Acme Technologies Ltd recently ventured into?
+A: The company has recently ventured into the field of information technology.
+Q: What is the name of Acme Technologies Ltd's IT sister concern?
+A: The IT division of the company is called Acme AI.
+Q: What is Acme AI primarily focused on right now?
+A: Acme AI is primarily focused on annotation services at the moment.
+Q: What are Acme AI’s future plans in the IT field?
+A: In the future, Acme AI plans to expand into other areas of IT and aims to contribute to Smart Bangladesh.
+Q: How many business concerns does Acme Technologies Ltd currently operate under?
+A: Acme Technologies Ltd operates under three distinct business concerns: Acme Constructions (focused on industrial and commercial complexes), Acme Services (focused on service sector needs), and Acme AI (focused on information technology and annotation services).
+Q: What is the meaning of HR?
+A: HR stands for Human Resources. It's a department within organizations responsible for managing employee relations, hiring, training, benefits, and other personnel-related functions.
+Q: What are HR Policies?
+A: HR policies are guidelines that companies set for employee relations in the workplace. These standardized rules ensure consistency by defining acceptable behavior, outlining employee expectations, detailing disciplinary procedures, and specifying organizational responsibilities. Companies implement these policies to demonstrate their commitment to regulatory compliance, minimum employment standards, training, diversity, and ethical practices.
+Q: What is the current office schedule as per the management's decision?
+A: The new office schedule is as follows:
+. Office starts at 9:00 AM.
+. Office closes at 5:00 PM.
+. Lunch and prayer break from 1:00 PM to 2:00 PM.
+Q: What are the consequences for being late multiple times in a month?
+A: The consequences for being late are as follows:
+. 3 days late: ½ day salary deduction.
+. 5 days late: 1 day salary deduction.
+. 8 days late: 2 days salary deduction.
+. 10 days late: 3 days salary deduction.
+Q: What happens if an employee is more than 1 hour late twice in a month?
+A: If an employee is more than 1 hour late for 2 days in a month (except for office work), ½ day salary will be deducted.
+Q: What are the rules for attending a project visit in the morning?
+A: Employees who need to attend a project visit in the morning (except for urgent needs like casting or client visits) must first come to the office, punch in using the attendance machine, and then go for the project visit. If the visit takes half an hour, they must return to the office and punch out using the attendance machine before leaving for the day.
+Q: What is the policy for leaving the office early or taking leave?
+A: The policy for early departure or leave is as follows:
+. If an employee is absent for half a day twice, 1 full day of leave will be deducted and added to their casual leave list.
+. Half-day leave due to illness will be added to their sick leave.
+. If casual leave (10 days) and sick leave (13 days) are exhausted, any additional leave will be unpaid.
+Q: How is attendance, arrival, and departure monitored?
+A: All attendance, absence, arrival, and departure are monitored through the finger punch machine and the ERP system. These records will be used for payroll processing.
+Q: What happens if an employee arrives late but has a valid reason?
+A: If an employee has a special reason for arriving late but reaches the office before 9:15 AM, they will be considered present.
+Q: How much salary is deducted if an employee is late more than 5 days in a month?
+A: If an employee is late for 5 days in a month, 1 full day of salary will be deducted.
+Q: What happens if an employee uses all their casual and sick leave?
+A: Once all casual (10 days) and sick leave (13 days) are exhausted, any additional leave will be taken as unpaid leave.
+Q: Can an employee go directly to a client or project site without first coming to the office?
+A: No, unless it is for urgent needs like casting or a client visit. Otherwise, employees must first come to the office and punch in before heading to the project site.
+Q: How is half-day leave due to illness recorded?
+A: Half-day leave taken due to illness will be added to the employee's sick leave balance.
+Q: Who is eligible for Annual Leave (AL) at Acme Technologies Ltd?
+A: Employees who have worked continuously for a period of 1 (one) year are eligible for Annual Leave.
+Q: How many days of paid Annual Leave are employees entitled to each year?
+A: Employees are entitled to 20 (twenty) days of paid Annual Leave for every subsequent 12 (twelve) months of service.
+Q: How many days of Casual Leave (CL) are granted in a calendar year?
+A: Employees are granted 10 (ten) days of Casual Leave in a calendar year.
+Q: Can Casual Leave (CL) be taken for more than 1 day at a time?
+A: No, Casual Leave cannot be taken for more than 1 (one) day at a time.
+Q: Is Casual Leave (CL) cumulative or carried forward?
+A: No, Casual Leave is non-cumulative and cannot be carried forward.
+Q: Can Casual Leave (CL) be combined with other types of leave?
+A: Yes, Casual Leave can be combined with other types of leave.
+Q: How is Casual Leave (CL) granted to employees throughout the year?
+A: Casual Leave (CL) is granted proportionally throughout the year, based on the length of service, following a pro-rata system.
+
+
+Q: How many days of Sick Leave (SL) are granted to employees each year?
+A: Employees are granted 14 (fourteen) days of Sick Leave in a calendar year.
+Q: What is required to obtain Sick Leave for more than 2 days?
+A: Employees must provide a medical certificate issued by a qualified registered doctor to obtain Sick Leave for more than 2 (two) days.
+Q: What happens if an employee fails to provide the necessary medical documentation for Sick Leave?
+A: If the required medical documents are not furnished, the employee will be treated as absent, and the absence will result in Leave Without Pay (LWP) for the period in question.
+Q: Can Sick Leave (SL) be carried forward or accumulated?
+A: No, Sick Leave cannot be carried forward, and accumulation is not allowed.
+Q: Can Sick Leave (SL) be combined with Casual Leave (CL)?
+A: While Sick Leave and Casual Leave can be taken separately, neither can be carried forward, and accumulation is not allowed.
+Q: What is the purpose of the incentive policy?
+A: The incentive policy is designed to reward employees for their contributions based on project or company performance and encourage efficiency and quality.
+Q: How are incentives distributed across departments?
+A: Incentives vary by department and are typically based on either project completion or company performance, with distribution on a prorate basis based on employee salary.
+Q: What is the Acme Real Estate Incentive policy?
+A: Performance Measurement: Profit on project completion after final profit/loss calculation.
+Who to Get:
+. All individuals in the completed project.
+. AGM Real Estate & project coordinators.
+When to Get: On project completion.
+Incentive Amount: 1.25% of the net profit of a completed project.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Project is not completed on time.
+   . Major quality issues are observed.
+   . Costs exceed the planned budget.
+   . A major accident occurs during the project.
+Q: How is performance measured in Acme Real Estate?
+A: Performance is measured by the profit earned upon the completion of a project after final profit/loss calculation.
+Q: Who is eligible for incentives in Acme Real Estate?
+A: All employees involved in the completed project, including the AGM Real Estate and project coordinators.
+Q: When are incentives paid out at Acme Real Estate?
+A: Incentives are distributed after the project is completed.
+Q: How much is the incentive amount for Acme Real Estate employees?
+A: The incentive is 1.25% of the net profit from the completed project.
+Q: How is the incentive distributed at Acme Real Estate?
+A: The incentive is distributed on a prorate basis based on each employee's salary.
+Q: Under what circumstances can the incentive in Acme Real Estate be reduced?
+A: The incentive may be reduced if:
+. The project is not completed on time.
+. Major quality issues are observed.
+. Costs exceed the planned budget.
+. A major accident occurs during the project.
+Q: What is the Acme Construction incentive policy?
+A: Performance Measurement: Profit on project completion and after final profit/loss calculation.
+Who to Get:
+. All in the completed project.
+. AGM Construction & project coordinators.
+When to Get: On project completion.
+Incentive Amount: 1.25% of the net profit of a completed project.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Project is not completed on time.
+   . Major quality issues are observed.
+   . Costs exceed the planned budget.
+   . Sales budget is not met.
+   . A major accident occurs during the project.
+
+
+Q: How is performance measured in Acme Construction?
+A: Performance is measured based on profit upon the completion of a project after the final profit/loss calculation.
+Q: Who is eligible for incentives in Acme Construction?
+A: All employees involved in the completed project, including the AGM Construction and project coordinators.
+Q: When are incentives distributed at Acme Construction?
+A: Incentives are given after the completion of the project.
+Q: What is the incentive amount for Acme Construction employees?
+A: The incentive is 1.25% of the net profit from the completed project.
+Q: How are incentives distributed in Acme Construction?
+A: Incentives are distributed on a prorate basis according to the employee’s salary.
+Q: When can incentives be reduced for Acme Construction employees?
+A: Incentives may be reduced if:
+. The project is not completed on time.
+. Major quality issues are observed.
+. Costs exceed the planned budget.
+. Sales budget is not met.
+. A major accident occurs during the project.
+Q: What is the Acme AI incentive policy?
+A: Performance Measurement: Net profit in a calendar quarter.
+. Who to Get: All in the company.
+. When to Get: Quarterly.
+. Incentive Amount: 15% of the net profit of a quarter.
+. Distribution Policy: On a prorate basis based on salary.
+. Remarks:
+   . Authority may reduce the incentive if:
+      . Major client complaints arise regarding time and accuracy.
+      . Quarterly operations invoice is less than $60K.
+
+
+Q: How is performance measured in Acme AI?
+A: Performance is measured by the net profit in a calendar quarter.
+Q: Who is eligible for incentives in Acme AI?
+A: All employees in the company are eligible.
+Q: When are incentives paid in Acme AI?
+A: Incentives are paid out quarterly.
+Q: What is the incentive amount for Acme AI employees?
+A: The incentive amount is 15% of the net profit for the quarter.
+Q: How are incentives distributed in Acme AI?
+A: The incentive is distributed on a prorate basis based on the employee's salary.
+Q: What can cause the incentive at Acme AI to be reduced?
+A: Incentives may be reduced if:
+. Major client complaints arise regarding time and accuracy.
+. The quarterly operations invoice is less than $60K.
+Q: What is the Acme Services incentive policy?
+A: Performance Measurement: Net profit in a calendar quarter.
+Who to Get: All in the company.
+When to Get: Quarterly.
+Incentive Amount: 2% of the net profit in a quarter.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Registration is less than 4.
+   . Apartment sales are less than 1.
+   . Applicable to Acme Services and Logistics staff.
+
+
+
+
+Q: How is performance measured in Acme Services?
+A: Performance is measured based on the net profit of the company in a calendar quarter.
+Q: Who is eligible for incentives in Acme Services?
+A: All employees in the company are eligible.
+Q: When are incentives paid in Acme Services?
+A: Incentives are paid quarterly.
+Q: What is the incentive amount for Acme Services employees?
+A: The incentive is 2% of the net profit in a quarter.
+Q: How is the incentive distributed in Acme Services?
+A: The incentive is distributed on a prorate basis based on employee salary.
+Q: What can reduce the incentive for Acme Services employees?
+A: The incentive may be reduced if:
+. Registration is less than 4.
+. Apartment sales are less than 1.
+Q: What is the Sales department incentive policy?
+A: Performance Measurement: Successful apartment sale at or above budgeted price.
+Who to Get: All in the department.
+When to Get: Quarterly.
+Incentive Amount: Tk. 50K per apartment sale, if the lead is generated by the department.
+Distribution Policy:
+. 40% for the Marketing Director.
+. Rest distributed to sales staff based on salary prorate.
+Remarks:
+. Authority may reduce the incentive if:
+   . Total sales are less than 3 in a quarter.
+   . Sale price is less than the budgeted sale price.
+
+
+Q: How is performance measured in the Sales Department?
+A: Performance is based on the successful sale of apartments at or above the budgeted price.
+Q: Who is eligible for incentives in the Sales Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid for the Sales Department?
+A: Incentives are paid quarterly.
+Q: What is the incentive amount for the Sales Department?
+A: The incentive is Tk. 50K per apartment sale if the lead is generated by the department.
+Q: How is the incentive distributed in the Sales Department?
+A: The incentive is distributed as follows:
+. 40% to the Marketing Director.
+. The remaining 60% is distributed to sales staff on a prorate basis based on salary.
+Q: Under what conditions can the incentive in the sales department be reduced?
+A: The incentive can be reduced if:
+. Total sales are less than 3 in a quarter.
+. The sale price is lower than the budgeted price.
+Q: What is the Business Development department incentive policy?
+A: Performance Measurement: Successful deal finalization brought by the team.
+Who to Get: All in the department.
+When to Get: On ground-breaking after receiving formal work order.
+Incentive Amount: 0.10% of the deal amount.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Total business in a calendar year is less than Tk. 100 crore.
+   . Poor rate calculation causes loss for the company.
+
+
+Q: How is performance measured in Business Development?
+A: Performance is measured by successful deal finalization brought by the team.
+Q: Who is eligible for incentives in Business Development?
+A: All employees in the department are eligible.
+Q: When are incentives paid for the Business development department?
+A: Incentives are paid upon the ground-breaking after receiving the formal work order.
+Q: What is the incentive amount for Business Development employees?
+A: The incentive is 0.10% of the deal amount.
+Q: How are incentives distributed in Business Development?
+A: Incentives are distributed on a prorate basis according to employee salaries.
+Q: What conditions can reduce the incentive in Business development department?
+A: Incentives can be reduced if:
+. Total business in a calendar year is less than Tk. 100 crore.
+. Poor rate calculation causes a loss for the company.
+Q: What is the Accounts department incentive policy?
+A: Performance Measurement: Collection of cash incentive of a quarter within the next 2 quarters + 15 days.
+Who to Get: All in the department.
+When to Get: Quarterly.
+Incentive Amount: 5% of the collected cash incentive.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Yearly audit is not done by 30th November.
+   . AGM is not held by 20th February.
+
+
+Q: How is performance measured in the Accounts Department?
+A: Performance is measured by the collection of cash incentives within the next two quarters and 15 days.
+Q: Who is eligible for incentives in the Accounts Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid at the Accounts department?
+A: Incentives are paid quarterly.
+Q: What is the incentive amount for the Accounts Department?
+A: The incentive is 5% of the collected cash incentive.
+Q: How are incentives distributed in the Accounts Department?
+A: Incentives are distributed on a prorate basis based on employee salary.
+Q: What can reduce the incentive in the Accounts Department?
+A: Incentives may be reduced if:
+. The yearly audit is not completed by 30th November.
+. The AGM is not held by 20th February.
+Q: What is the HR department incentive policy?
+A: Performance Measurement: Salary deduction exceeds Tk. 3 lakhs per quarter.
+Who to Get: All in the department.
+When to Get: Quarterly.
+Incentive Amount: 5% of the deducted amount.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Annual promotion and increment meeting is not timely held.
+   . Recruitment quality is consistently poor.
+
+
+Q: How is performance measured in the HR Department?
+A: Performance is measured by salary deductions exceeding Tk. 3 lakhs per quarter.
+Q: Who is eligible for incentives in the HR Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid in the HR Department?
+A: Incentives are paid quarterly.
+Q: What is the incentive amount for HR Department employees?
+A: The incentive is 5% of the deducted amount.
+Q: How are incentives distributed in the HR Department?
+A: The incentive is distributed on a prorate basis according to employee salary.
+Q: What can reduce the incentive in the HR Department?
+A: Incentives can be reduced if:
+. The annual promotion and increment meeting is not held on time.
+. Recruitment quality is consistently poor.
+Q: What is the Budget department incentive policy?
+A: Performance Measurement: Final cost budget of a completed project does not over/under shoot by more than 2.5%.
+Who to Get: All in the department.
+When to Get: On project completion.
+Incentive Amount: 5% of saved or excess money for remaining below or above the budget.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Cost budget crosses the limit.
+   . Non-inclusion of items causes project delay.
+
+
+Q: How is performance measured in the Budget Department?
+A: Performance is measured by ensuring that the final project cost does not deviate by more than 2.5%.
+Q: Who is eligible for incentives in the Budget Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid in the Budget Department?
+A: Incentives are paid upon project completion.
+Q: What is the incentive amount for Budget Department employees?
+A: The incentive is 5% of the saved or excess money for remaining below or above the budget.
+Q: How is the incentive distributed at the Budget Department?
+A: The incentive is distributed on a prorate basis based on employee salary.
+Q: When can the incentive for the Budget department be reduced?
+A: Incentives can be reduced if:
+. The cost budget crosses the limit.
+. Non-inclusion of items causes project delay.
+Q: What is the Audit department incentive policy?
+A: Performance Measurement: Reduction of project cost by 1% through audit.
+Who to Get: All in the department.
+When to Get: On project completion.
+Incentive Amount: 5% of the saved amount.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+. Authority may reduce the incentive if:
+   . Major flaws are found in audit work.
+   . Complaints arise regarding time taken for audit.
+
+
+Q: How is performance measured in the Audit Department?
+A: Performance is measured by reducing project costs by 1% through auditing.
+Q: Who is eligible for incentives in the Audit Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid in the Audit Department?
+A: Incentives are paid upon project completion.
+Q: What is the incentive amount for the Audit Department?
+A: The incentive is 5% of the saved amount.
+Q: How are incentives distributed in the Audit Department?
+A: The incentive is distributed on a prorate basis according to employee salary.
+Q: What conditions can reduce the incentive for the Audit Department?
+A: Incentives may be reduced if:
+. Major flaws are found in audit work.
+. Complaints arise regarding the time taken for the audit.
+Q: What is the IT department incentive policy?
+A: Performance Measurement:
+      . No security breaches in a calendar quarter.
+      . No major technological disruptions in a calendar quarter.
+   . Who to Get: All in the department.
+   . When to Get: Quarterly.
+   . Incentive Amount: 5% of salary.
+   . Distribution Policy: On a prorate basis based on salary.
+   . Remarks:
+      . Authority may reduce the incentive if:
+         . There are security breaches.
+         . There are noncompliance issues regarding ISO, GDPR, or HIPAA certifications.
+Q: How is performance measured in the IT Department?
+A: Performance is measured by ensuring:
+. No security breaches in a calendar quarter.
+. No major technological disruptions in a calendar quarter.
+Q: Who is eligible for incentives in the IT Department?
+A: All employees in the department are eligible.
+Q: When are incentives paid in the IT Department?
+A: Incentives are paid quarterly.
+Q: What is the incentive amount for IT Department employees?
+A: The incentive is 5% of the employee's salary.
+Q: How are incentives distributed in the IT Department?
+A: Incentives are distributed on a prorate basis according to employee salary.
+Q: What can reduce the incentive in the IT Department?
+A: Incentives may be reduced if:
+. Security breaches occur.
+. Noncompliance with ISO, GDPR, or HIPAA certifications is found.
+Q: Why is a communication policy essential for Acme Technologies Ltd?
+A: The communication policy is essential to ensure the seamless management of corporate communications while protecting the company from information breaches, hacking, and various cyber threats.
+Q: What are the specific objectives of the communication policy?
+A: The objectives include securing communication channels, preventing information leakage, protecting against cyber attacks, and fostering clear and effective internal and external communication.
+Q: Who is required to adhere to the communication policy at Acme Technologies Ltd?
+A: The policy applies to all employees, contractors, suppliers, and partners associated with Acme Technologies Ltd.
+Q: Which communication channels are governed by this communication policy?
+A: This policy governs various communication channels, including phones (landline, cell, and IP), emails, internet usage, meetings, and social media platforms such as Viber, WhatsApp, Discord, Facebook, LinkedIn, Instagram, TikTok, and YouTube.
+
+
+Q: What are the guidelines for using landline phones in the organization?
+A: Landline phones are used primarily by Acme Technologies’ Corporate HQ and other departments as needed for business, administrative, and communication purposes. The IT and HR departments maintain a list of landlines and ensure their functionality.
+Q: How are cell phones provided and managed for official purposes?
+A: Cell phones are used by all management staff. While employees purchase their own phone sets, SIM cards are provided by the company. Employees must use the company-provided SIM for all official communication, and personal SIMs are strictly prohibited for work-related purposes.
+Q: What is the protocol for managing security and device theft?
+A: Employees must secure their devices at all times and report any theft or missing devices to the IT or HR department as soon as possible. Additionally, employees should avoid opening links or attachments from unknown or suspicious sources.
+Q: What is the policy on managing phone allowances?
+A: Each employee is given a monthly phone allowance, which can be used for both voice and data communication. The allowance must be utilized efficiently, with any misuse subject to policy review.
+Q: What role do IP phones play in intra-office communication?
+A: IP phones are installed at workstations as needed and are used for internal communication within and between offices. The IT department ensures that all IP phones remain operational, and proper training is provided to employees on their use.
+Q: What is the policy on the usage of official email addresses?
+A: All employees required to communicate in writing will be assigned an official email address, which must be used for all company-related communication. Using personal email for official communication is prohibited and can result in disciplinary action.
+Q: Can personal email addresses be used for work-related purposes?
+A: No, personal email addresses cannot be used for official communication under any circumstances. A list of both official and personal email addresses will be maintained by the HR and IT departments.
+Q: What is the standard response time for emails?
+A: Employees are expected to respond to emails within 24 hours on business days unless there is an urgent matter that requires immediate attention.
+Q: Are there any language requirements for email communication?
+A: Both English and Bangla can be used for email communication. However, the language must be clear, professional, concise, and respectful at all times.
+Q: Is there any guidance on sending emails outside of work hours?
+A: Employees are encouraged to avoid sending emails outside of official working hours unless the matter is urgent.
+Q: How should meetings be scheduled and conducted within Acme Technologies Ltd?
+A: Meetings should be scheduled through the company-approved calendar system. Agendas must be prepared and shared with participants in advance. Meetings should begin and end on time, and meeting minutes with action items must be followed up to ensure accountability.
+Q: How should meeting outcomes be documented?
+A: Meeting minutes must be recorded, including key decisions and action items. These should be shared with all participants and stored on the company’s cloud storage for easy access.
+Q: What is the policy on internet access within the organization?
+A: All workstations in the office, construction sites, and selected employees are provided with internet access through reliable service providers. Employees must use this connection responsibly for work-related purposes.
+Q: How should SIM cards be managed for internet access?
+A: All SIM cards used by the company should have internet connectivity. Employees are responsible for ensuring secure usage, the IT team monitors and manages connections for security and performance.
+Q: Which social media platforms are authorized for communication and promotional activities?
+A: The following social media platforms are authorized:
+. Viber: Used for construction progress reporting and internal communication.
+. WhatsApp: Utilized for voice and data communication across various teams.
+. Discord: Primarily used for internal operations within Acme AI and client communication.
+. Facebook, LinkedIn, Instagram, TikTok, YouTube: Used for branding, sales promotion, and engagement with the public.
+Q: Are there any restrictions on the use of social media platforms?
+A: Unauthorized use of social media platforms is strictly prohibited. Employees must adhere to company policies regarding appropriate use, ensuring that no confidential or sensitive information is posted.
+Q: Who manages social media accounts within the company?
+A: The Head of IT and the Head of HR jointly administer social media platforms. Social media use is based on the “need-to-use” principle, and access is granted only when necessary.
