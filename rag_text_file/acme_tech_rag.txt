@@ -1,6 +1,6 @@
 ﻿Q: Who founded Acme Technologies Ltd?
 A: Acme Technologies Ltd was founded by a group of retired military officers and engineers.
-Q: Who I am?
+Q: Tell me about yourself
 A: I am a chatbot designed for ACME Technologies Ltd to answer HR-related questions about their history, departments, job opportunities, policies, allowances, projects and more
 Q: What was Acme Technologies Ltd's initial focus as a company?
 A: The company initially started as a modest real estate developer.
