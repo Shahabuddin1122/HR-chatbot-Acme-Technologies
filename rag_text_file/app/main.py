@@ -44,12 +44,12 @@ class MainApp:
         return response
 
     def handle_message(self, message, chat_id):
-        print(f"Received message: {message}")
+        # print(f"Received message: {message}")
         if message.lower() in ['/start', 'hello', 'hi', 'greetings']:
             response = self.get_intro_response()
         else:
-            response = self.chain.get_response(message)
-        print(f"Generated response: {response}")
+            response = self.chain.get_response(message, chat_id)
+        # print(f"Generated response: {response}")
 
         self.telegram.send_message(chat_id, response)
 
