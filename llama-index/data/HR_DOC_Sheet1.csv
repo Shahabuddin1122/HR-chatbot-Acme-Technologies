@@ -1,0 +1,626 @@
+Sl No,Question,Answer
+1,Who founded Acme Technologies Ltd?,Acme Technologies Ltd was founded by a group of retired military officers and engineers.
+2,What was Acme Technologies Ltd's initial focus as a company?,The company initially started as a modest real estate developer.
+3,How did the company expand into the construction sector?,Acme Technologies Ltd expanded into constructing industrial and commercial complexes under the name Acme Constructions.
+4,What business ethics does Acme Technologies Ltd follow to ensure its success?,"The company follows basic business ethics such as timely delivery, maintaining the quality of works, and focusing on stunning architecture."
+5,How did Acme Technologies Ltd gain prominence in the industry?,"Through its commitment to business ethics, Acme Technologies Ltd gained prominence and came into the limelight."
+6,"Why did Acme Technologies Ltd create a new company, Acme Services?","To meet its own needs and the needs of its clients in the service sector, Acme Technologies Ltd created a separate company called Acme Services."
+7,What new business sector has Acme Technologies Ltd recently ventured into?,The company has recently ventured into the field of information technology.
+8,What is the name of Acme Technologies Ltd's IT division?,The IT division of the company is called Acme AI.
+9,What is Acme AI primarily focused on right now?,Acme AI is primarily focused on annotation services at the moment.
+10,What are Acme AI’s future plans in the IT field?,"In the future, Acme AI plans to expand into other areas of IT and aims to contribute to Smart Bangladesh."
+11,How many business concerns does Acme Technologies Ltd currently operate under?,"Acme Technologies Ltd operates under three distinct business concerns: Acme Constructions (focused on industrial and commercial complexes), Acme Services (focused on service sector needs), and Acme AI (focused on information technology and annotation services)."
+12,What is the meaning of HR?,"HR stands for Human Resources. It's a department within organizations responsible for managing employee relations, hiring, training, benefits, and other personnel-related functions."
+13,What are HR Policies?,"HR policies are guidelines that companies set for employee relations in the workplace. These standardized rules ensure consistency by defining acceptable behavior, outlining employee expectations, detailing disciplinary procedures, and specifying organizational responsibilities. Companies implement these policies to demonstrate their commitment to regulatory compliance, minimum employment standards, training, diversity, and ethical practices."
+14,What is the current office schedule as per the management's decision?,"The new office schedule is as follows: Office starts at 9:00 AM, Office closes at 5:00 PM, Lunch and prayer break from 1:00 PM to 2:00 PM."
+15,What are the consequences for being late multiple times in a month?,"The consequences for being late are as follows: 3 days late: ½ day salary deduction, 5 days late: 1 day salary deduction, 8 days late: 2 days salary deduction, 10 days late: 3 days salary deduction."
+16,What happens if an employee is more than 1 hour late twice in a month?,"If an employee is more than 1 hour late for 2 days in a month (except for office work), ½ day salary will be deducted."
+17,What are the rules for attending a project visit in the morning?,"Employees who need to attend a project visit in the morning (except for urgent needs like casting or client visits) must first come to the office, punch in using the attendance machine, and then go for the project visit. If the visit takes half an hour, they must return to the office and punch out using the attendance machine before leaving for the day."
+18,What is the policy for leaving the office early or taking leave?,"The policy for early departure or leave is as follows: If an employee is absent for half a day twice, 1 full day of leave will be deducted and added to their casual leave list. Half-day leave due to illness will be added to their sick leave. If casual leave (10 days) and sick leave (13 days) are exhausted, any additional leave will be unpaid."
+19,"How is attendance, arrival, and departure monitored?","All attendance, absence, arrival, and departure are monitored through the finger punch machine and the ERP system. These records will be used for payroll processing."
+20,What happens if an employee arrives late but has a valid reason?,"If an employee has a special reason for arriving late but reaches the office before 9:15 AM, they will be considered present."
+21,How much salary is deducted if an employee is late more than 5 days in a month?,"If an employee is late for 5 days in a month, 1 full day of salary will be deducted."
+22,What happens if an employee uses all their casual and sick leave?,"Once all casual (10 days) and sick leave (13 days) are exhausted, any additional leave will be taken as unpaid leave."
+23,Can an employee go directly to a client or project site without first coming to the office?,"No, unless it is for urgent needs like casting or a client visit. Otherwise, employees must first come to the office and punch in before heading to the project site."
+24,How is half-day leave due to illness recorded?,Half-day leave taken due to illness will be added to the employee's sick leave balance.
+25,Who is eligible for Annual Leave (AL) at Acme Technologies Ltd?,Employees who have worked continuously for a period of 1 (one) year are eligible for Annual Leave.
+26,How many days of paid Annual Leave are employees entitled to each year?,Employees are entitled to 20 (twenty) days of paid Annual Leave for every subsequent 12 (twelve) months of service.
+27,How many days of Casual Leave (CL) are granted in a calendar year?,Employees are granted 10 (ten) days of Casual Leave in a calendar year.
+28,Can Casual Leave (CL) be taken for more than 1 day at a time?,"No, Casual Leave cannot be taken for more than 1 (one) day at a time."
+29,Is Casual Leave (CL) cumulative or carried forward?,"No, Casual Leave is non-cumulative and cannot be carried forward."
+30,Can Casual Leave (CL) be combined with other types of leave?,"Yes, Casual Leave can be combined with other types of leave."
+31,How is Casual Leave (CL) granted to employees throughout the year?,"Casual Leave (CL) is granted proportionally throughout the year, based on the length of service, following a pro-rata system."
+32,How many days of Sick Leave (SL) are granted to employees each year?,Employees are granted 14 (fourteen) days of Sick Leave in a calendar year.
+33,What is required to obtain Sick Leave for more than 2 days?,Employees must provide a medical certificate issued by a qualified registered doctor to obtain Sick Leave for more than 2 (two) days.
+34,What happens if an employee fails to provide the necessary medical documentation for Sick Leave?,"If the required medical documents are not furnished, the employee will be treated as absent, and the absence will result in Leave Without Pay (LWP) for the period in question."
+35,Can Sick Leave (SL) be carried forward or accumulated?,"No, Sick Leave cannot be carried forward, and accumulation is not allowed."
+36,Can Sick Leave (SL) be combined with Casual Leave (CL)?,"While Sick Leave and Casual Leave can be taken separately, neither can be carried forward, and accumulation is not allowed."
+37,What is the purpose of the incentive policy?,The incentive policy is designed to reward employees for their contributions based on project or company performance and encourage efficiency and quality.
+38,How are incentives distributed across departments?,"Incentives vary by department and are typically based on either project completion or company performance, with distribution on a prorate basis based on employee salary."
+39,What is the Acme Real Estate Incentive policy?,"Performance Measurement: Profit on project completion after final profit/loss calculation.
+Who to Get:
+All individuals in the completed project.
+AGM Real Estate & project coordinators.
+When to Get: On project completion.
+Incentive Amount: 1.25% of the net profit of a completed project.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+Authority may reduce the incentive if:
+- Project is not completed on time.
+- Major quality issues are observed.
+- Costs exceed the planned budget.
+- A major accident occurs during the project."
+40,How is performance measured in Acme Real Estate?,Performance is measured by the profit earned upon the completion of a project after final profit/loss calculation.
+41,Who is eligible for incentives in Acme Real Estate?,"All employees involved in the completed project, including the AGM Real Estate and project coordinators."
+42,When are incentives paid out at Acme Real Estate?,Incentives are distributed after the project is completed.
+43,How much is the incentive amount for Acme Real Estate employees?,The incentive is 1.25% of the net profit from the completed project.
+44,How is the incentive distributed at Acme Real Estate?,The incentive is distributed on a prorate basis based on each employee's salary.
+45,Under what circumstances can the incentive in Acme Real Estate be reduced?,"The incentive may be reduced if:
+- The project is not completed on time.
+- Major quality issues are observed.
+- Costs exceed the planned budget.
+- A major accident occurs during the project."
+46,What is the Acme Construction incentive policy?,"Performance Measurement: Profit on project completion and after final profit/loss calculation.
+Who to Get:
+All in the completed project.
+AGM Construction & project coordinators.
+When to Get: On project completion.
+Incentive Amount: 1.25% of the net profit of a completed project.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+Authority may reduce the incentive if:
+- Project is not completed on time.
+- Major quality issues are observed.
+- Costs exceed the planned budget.
+- Sales budget is not met.
+- A major accident occurs during the project."
+47,How is performance measured in Acme Construction?,Performance is measured based on profit upon the completion of a project after the final profit/loss calculation.
+48,Who is eligible for incentives in Acme Construction?,"All employees involved in the completed project, including the AGM Construction and project coordinators."
+49,When are incentives distributed at Acme Construction?,Incentives are given after the completion of the project.
+50,What is the incentive amount for Acme Construction employees?,The incentive is 1.25% of the net profit from the completed project.
+51,How are incentives distributed in Acme Construction?,Incentives are distributed on a prorate basis according to the employee’s salary.
+52,When can incentives be reduced for Acme Construction employees?,"Incentives may be reduced if:
+- The project is not completed on time.
+- Major quality issues are observed.
+- Costs exceed the planned budget.
+- Sales budget is not met.
+- A major accident occurs during the project."
+53,What is the Acme AI incentive policy?,"Performance Measurement: Net profit in a calendar quarter.
+Who to Get: All in the company.
+When to Get: Quarterly.
+Incentive Amount: 15% of the net profit of a quarter.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+Authority may reduce the incentive if:
+- Major client complaints arise regarding time and accuracy.
+- Quarterly operations invoice is less than $60K."
+54,How is performance measured in Acme AI?,Performance is measured by the net profit in a calendar quarter.
+55,Who is eligible for incentives in Acme AI?,All employees in the company are eligible.
+56,When are incentives paid in Acme AI?,Incentives are paid out quarterly.
+57,What is the incentive amount for Acme AI employees?,The incentive amount is 15% of the net profit for the quarter.
+58,How are incentives distributed in Acme AI?,The incentive is distributed on a prorate basis based on the employee's salary.
+59,What can cause the incentive at Acme AI to be reduced?,"Incentives may be reduced if:
+- Major client complaints arise regarding time and accuracy.
+- The quarterly operations invoice is less than $60K."
+60,What is the Acme Services incentive policy?,"Performance Measurement: Net profit in a calendar quarter.
+Who to Get: All in the company.
+When to Get: Quarterly.
+Incentive Amount: 2% of the net profit in a quarter.
+Distribution Policy: On a prorate basis based on salary.
+Remarks:
+Authority may reduce the incentive if:
+- Registration is less than 4.
+- Apartment sales are less than 1.
+- Applicable to Acme Services and Logistics staff."
+61,How is performance measured in Acme Services?,Performance is measured based on the net profit of the company in a calendar quarter.
+62,Who is eligible for incentives in Acme Services?,All employees in the company are eligible.
+63,When are incentives paid in Acme Services?,Incentives are paid quarterly.
+64,What is the incentive amount for Acme Services employees?,The incentive is 2% of the net profit in a quarter.
+65,How is the incentive distributed in Acme Services?,The incentive is distributed on a prorate basis based on employee salary.
+66,What can reduce the incentive for Acme Services employees?,The incentive may be reduced if: Registration is less than 4. Apartment sales are less than 1.
+67,What is the Sales department incentive policy?,"Performance Measurement: Successful apartment sale at or above budgeted price. Who to Get: All in the department. When to Get: Quarterly. Incentive Amount: Tk. 50K per apartment sale, if the lead is generated by the department. Distribution Policy: 40% for the Marketing Director. Rest distributed to sales staff based on salary prorate. Remarks: Authority may reduce the incentive if: Total sales are less than 3 in a quarter. Sale price is less than the budgeted sale price."
+68,How is performance measured in the Sales Department?,Performance is based on the successful sale of apartments at or above the budgeted price.
+69,Who is eligible for incentives in the Sales Department?,All employees in the department are eligible.
+70,When are incentives paid for the Sales Department?,Incentives are paid quarterly.
+71,What is the incentive amount for the Sales Department?,The incentive is Tk. 50K per apartment sale if the lead is generated by the department.
+72,How is the incentive distributed in the Sales Department?,The incentive is distributed as follows: 40% to the Marketing Director. The remaining 60% is distributed to sales staff on a prorate basis based on salary.
+73,Under what conditions can the incentive in the sales department be reduced?,The incentive can be reduced if: Total sales are less than 3 in a quarter. The sale price is lower than the budgeted price.
+74,What is the Business Development department incentive policy?,Performance Measurement: Successful deal finalization brought by the team. Who to Get: All in the department. When to Get: On ground-breaking after receiving formal work order. Incentive Amount: 0.10% of the deal amount. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: Total business in a calendar year is less than Tk. 100 crore. Poor rate calculation causes loss for the company.
+75,How is performance measured in Business Development?,Performance is measured by successful deal finalization brought by the team.
+76,Who is eligible for incentives in Business Development?,All employees in the department are eligible.
+77,When are incentives paid for the Business Development department?,Incentives are paid upon the ground-breaking after receiving the formal work order.
+78,What is the incentive amount for Business Development employees?,The incentive is 0.10% of the deal amount.
+79,How are incentives distributed in Business Development?,Incentives are distributed on a prorate basis according to employee salaries.
+80,What conditions can reduce the incentive in Business Development department?,Incentives can be reduced if: Total business in a calendar year is less than Tk. 100 crore. Poor rate calculation causes a loss for the company.
+81,What is the Accounts department incentive policy?,Performance Measurement: Collection of cash incentive of a quarter within the next 2 quarters + 15 days. Who to Get: All in the department. When to Get: Quarterly. Incentive Amount: 5% of the collected cash incentive. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: Yearly audit is not done by 30th November. AGM is not held by 20th February.
+82,How is performance measured in the Accounts Department?,Performance is measured by the collection of cash incentives within the next two quarters and 15 days.
+83,Who is eligible for incentives in the Accounts Department?,All employees in the department are eligible.
+84,When are incentives paid at the Accounts department?,Incentives are paid quarterly.
+85,What is the incentive amount for the Accounts Department?,The incentive is 5% of the collected cash incentive.
+86,How are incentives distributed in the Accounts Department?,Incentives are distributed on a prorate basis based on employee salary.
+87,What can reduce the incentive in the Accounts Department?,Incentives may be reduced if: The yearly audit is not completed by 30th November. The AGM is not held by 20th February.
+88,What is the HR department incentive policy?,Performance Measurement: Salary deduction exceeds Tk. 3 lakhs per quarter. Who to Get: All in the department. When to Get: Quarterly. Incentive Amount: 5% of the deducted amount. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: Annual promotion and increment meeting is not timely held. Recruitment quality is consistently poor.
+89,How is performance measured in the HR Department?,Performance is measured by salary deductions exceeding Tk. 3 lakhs per quarter.
+90,Who is eligible for incentives in the HR Department?,All employees in the department are eligible.
+91,When are incentives paid in the HR Department?,Incentives are paid quarterly.
+92,What is the incentive amount for HR Department employees?,The incentive is 5% of the deducted amount.
+93,How are incentives distributed in the HR Department?,The incentive is distributed on a prorate basis according to employee salary.
+94,What can reduce the incentive in the HR Department?,Incentives can be reduced if: The annual promotion and increment meeting is not held on time. Recruitment quality is consistently poor.
+95,What is the Budget department incentive policy?,Performance Measurement: Final cost budget of a completed project does not over/under shoot by more than 2.5%. Who to Get: All in the department. When to Get: On project completion. Incentive Amount: 5% of saved or excess money for remaining below or above the budget. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: Cost budget crosses the limit. Non-inclusion of items causes project delay.
+96,How is performance measured in the Budget Department?,Performance is measured by ensuring that the final project cost does not deviate by more than 2.5%.
+97,Who is eligible for incentives in the Budget Department?,All employees in the department are eligible.
+98,When are incentives paid in the Budget Department?,Incentives are paid upon project completion.
+99,What is the incentive amount for Budget Department employees?,The incentive is 5% of the saved or excess money for remaining below or above the budget.
+100,How is the incentive distributed at the Budget Department?,The incentive is distributed on a prorate basis based on employee salary.
+101,When can the incentive for the Budget department be reduced?,Incentives can be reduced if: The cost budget crosses the limit. Non-inclusion of items causes project delay.
+102,What is the Audit department incentive policy?,Performance Measurement: Reduction of project cost by 1% through audit. Who to Get: All in the department. When to Get: On project completion. Incentive Amount: 5% of the saved amount. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: Major flaws are found in audit work. Complaints arise regarding time taken for audit.
+103,How is performance measured in the Audit Department?,Performance is measured by reducing project costs by 1% through auditing.
+104,Who is eligible for incentives in the Audit Department?,All employees in the department are eligible.
+105,When are incentives paid in the Audit Department?,Incentives are paid upon project completion.
+106,What is the incentive amount for the Audit Department?,The incentive is 5% of the saved amount.
+107,How are incentives distributed in the Audit Department?,The incentive is distributed on a prorate basis according to employee salary.
+108,What conditions can reduce the incentive for the Audit Department?,Incentives may be reduced if: Major flaws are found in audit work. Complaints arise regarding the time taken for the audit.
+109,What is the IT department incentive policy?,"Performance Measurement: No security breaches in a calendar quarter. No major technological disruptions in a calendar quarter. Who to Get: All in the department. When to Get: Quarterly. Incentive Amount: 5% of salary. Distribution Policy: On a prorate basis based on salary. Remarks: Authority may reduce the incentive if: There are security breaches. There are noncompliance issues regarding ISO, GDPR, or HIPAA certifications."
+110,How is performance measured in the IT Department?,Performance is measured by ensuring: No security breaches in a calendar quarter. No major technological disruptions in a calendar quarter.
+111,Who is eligible for incentives in the IT Department?,All employees in the department are eligible.
+112,When are incentives paid in the IT Department?,Incentives are paid quarterly.
+113,What is the incentive amount for IT Department employees?,The incentive is 5% of the employee's salary.
+114,How are incentives distributed in the IT Department?,Incentives are distributed on a prorate basis according to employee salary.
+115,What can reduce the incentive in the IT Department?,"Incentives may be reduced if: Security breaches occur. Noncompliance with ISO, GDPR, or HIPAA certifications is found."
+116,Why is a communication policy essential for Acme Technologies Ltd?,"The communication policy is essential to ensure the seamless management of corporate communications while protecting the company from information breaches, hacking, and various cyber threats."
+117,What are the specific objectives of the communication policy?,"The objectives include securing communication channels, preventing information leakage, protecting against cyber attacks, and fostering clear and effective internal and external communication."
+118,Who is required to adhere to the communication policy at Acme Technologies Ltd?,"The policy applies to all employees, contractors, suppliers, and partners associated with Acme Technologies Ltd."
+119,Which communication channels are governed by this communication policy?,"This policy governs various communication channels, including phones (landline, cell, and IP), emails, internet usage, meetings, and social media platforms such as Viber, WhatsApp, Discord, Facebook, LinkedIn, Instagram, TikTok, and YouTube."
+120,What are the guidelines for using landline phones in the organization?,"Landline phones are used primarily by Acme Technologies’ Corporate HQ and other departments as needed for business, administrative, and communication purposes. The IT and HR departments maintain a list of landlines and ensure their functionality."
+121,How are cell phones provided and managed for official purposes?,"Cell phones are used by all management staff. While employees purchase their own phone sets, SIM cards are provided by the company. Employees must use the company-provided SIM for all official communication, and personal SIMs are strictly prohibited for work-related purposes."
+122,What is the protocol for managing security and device theft?,"Employees must secure their devices at all times and report any theft or missing devices to the IT or HR department as soon as possible. Additionally, employees should avoid opening links or attachments from unknown or suspicious sources."
+123,What is the policy on managing phone allowances?,"Each employee is given a monthly phone allowance, which can be used for both voice and data communication. The allowance must be utilized efficiently, with any misuse subject to policy review."
+124,What role do IP phones play in intra-office communication?,"IP phones are installed at workstations as needed and are used for internal communication within and between offices. The IT department ensures that all IP phones remain operational, and proper training is provided to employees on their use."
+125,What is the policy on the usage of official email addresses?,"All employees required to communicate in writing will be assigned an official email address, which must be used for all company-related communication. Using personal email for official communication is prohibited and can result in disciplinary action."
+126,Can personal email addresses be used for work-related purposes?,"No, personal email addresses cannot be used for official communication under any circumstances. A list of both official and personal email addresses will be maintained by the HR and IT departments."
+127,What is the standard response time for emails?,Employees are expected to respond to emails within 24 hours on business days unless there is an urgent matter that requires immediate attention.
+128,Are there any language requirements for email communication?,"Both English and Bangla can be used for email communication. However, the language must be clear, professional, concise, and respectful at all times."
+129,Is there any guidance on sending emails outside of work hours?,Employees are encouraged to avoid sending emails outside of official working hours unless the matter is urgent.
+130,How should meetings be scheduled and conducted within Acme Technologies Ltd?,"Meetings should be scheduled through the company-approved calendar system. Agendas must be prepared and shared with participants in advance. Meetings should begin and end on time, and meeting minutes with action items must be followed up to ensure accountability."
+131,How should meeting outcomes be documented?,"Meeting minutes must be recorded, including key decisions and action items. These should be shared with all participants and stored on the company’s cloud storage for easy access."
+132,What is the policy on internet access within the organization?,"All workstations in the office, construction sites, and selected employees are provided with internet access through reliable service providers. Employees must use this connection responsibly for work-related purposes."
+133,How should SIM cards be managed for internet access?,"All SIM cards used by the company should have internet connectivity. Employees are responsible for ensuring secure usage, the IT team monitors and manages connections for security and performance."
+134,Which social media platforms are authorized for communication and promotional activities?,"The following social media platforms are authorized: Viber: Used for construction progress reporting and internal communication. WhatsApp: Utilized for voice and data communication across various teams. Discord: Primarily used for internal operations within Acme AI and client communication. Facebook, LinkedIn, Instagram, TikTok, YouTube: Used for branding, sales promotion, and engagement with the public."
+135,Are there any restrictions on the use of social media platforms?,"Unauthorized use of social media platforms is strictly prohibited. Employees must adhere to company policies regarding appropriate use, ensuring that no confidential or sensitive information is posted."
+136,Who manages social media accounts within the company?,"The Head of IT and the Head of HR jointly administer social media platforms. Social media use is based on the “need-to-use” principle, and access is granted only when necessary."
+137,How are documents shared and stored within the company?,"All documents must be stored and shared through the company’s designated cloud storage system, such as Google Drive or SharePoint. Standardized templates for reports and presentations should be used to ensure uniformity."
+138,How are documents organized for easy access?,Documents should be organized systematically and made accessible only to relevant parties. Proper labeling and categorization should be maintained for quick retrieval and reference.
+139,What is the procedure for handling media inquiries and public statements?,"All press releases, interviews, and public statements must be approved by the Chairman. Media inquiries should also be directed to the Chairman, and employees are prohibited from speaking on behalf of the company without prior approval."
+140,How should employees handle customer communication?,"Employees should use the company’s customer service channels, such as email, phone, or chat, when communicating with customers. Interactions must be clear, timely, and professional."
+141,How should confidential information be handled?,"Confidential information must not be shared with unauthorized parties. Encrypted communication channels should be used for sensitive information, and employees should follow the company’s data protection policies."
+142,What should employees do if they suspect a data breach?,Employees must report any data breaches or security incidents to the IT department immediately to minimize the impact and address the issue promptly.
+143,What are the guidelines for securing passwords?,"All communication tools must be password protected where possible. Passwords will be disseminated on a “need-to-know” basis, and unauthorized sharing of passwords is strictly prohibited and subject to disciplinary action."
+144,What are the consequences of not complying with the communication policy?,"Non-compliance with the communication policy will result in disciplinary action, which may include warnings, suspension, or termination, depending on the severity of the violation."
+145,How is compliance with the communication policy monitored?,"The company reserves the right to monitor communication channels to ensure policy compliance. Monitoring may include tracking emails, phone usage, and social media activity as necessary."
+146,How will employees be trained on communication practices?,"Employees will receive regular training on effective communication practices, including the use of official communication tools, data security, and social media guidelines."
+147,Who should employees contact for communication-related support?,Employees should contact the IT or HR departments for any questions or support related to communication practices.
+148,How often will the communication policy be reviewed?,The policy will be reviewed annually and updated as necessary to ensure it aligns with changing technology and business needs.
+149,What is the purpose of the Umrah Hajj policy?,The purpose of the Umrah Hajj policy is to provide officers and employees of the company with an opportunity to perform Umrah Hajj at the expense of the company as a token of appreciation for their long-term service and dedication.
+150,Who is eligible for the Umrah Hajj under this policy?,"To be eligible for the Umrah Hajj, an officer or employee must meet the following criteria: Must have completed at least 7 years of continuous service in the company. Must achieve an average score of at least 80% in their skill assessment. All must be elected by the Board of Directors. This policy shall apply to both officers and employees. Only 2 people can be elected in a calendar year."
+151,Tell me about the Mongolaloy project.,"Project Name: Mongolaloy Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+152,Tell me about the Acme Noor project.,"Project Name: Acme Noor Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+153,Tell me about the Zakia Abode project.,"Project Name: Zakia Abode Site In-Charge: Engineer-1, Site Assistant-1 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+154,Tell me about the Nakkhatro project.,"Project Name: Nakkhatro Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+155,Tell me about the Suraiya project.,"Project Name: Suraiya Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+156,Tell me about the Fazilat project.,"Project Name: Fazilat Site In-Charge: Engineer-1, Site Assistant-1 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+157,Tell me about the Nasreen Kabir Garden project.,"Project Name: Nasreen Kabir Garden Site In-Charge: Engineer-1, Site Assistant-1 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+158,Tell me about the Nasreen Villa project.,"Project Name: Nasreen Villa Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+159,Tell me about the Krittika project.,"Project Name: Krittika Site In-Charge: Engineer-1, Site Assistant-2 Supervisor: Mobashwer Ahmed, Phone No: +8801704-118070, AGM"
+160,Tell me about the EGL project.,"Project Name: EGL Site In-Charge: Engineer-2, Site Assistant-1 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+161,Tell me about the SETL Main project.,"Project Name: SETL Main Site In-Charge: Engineer-5, Ot-5 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+162,Tell me about the SFBL WH-2 project.,"Project Name: SFBL WH-2 Site In-Charge: Engineer-1, Site Assistant-3 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+163,Tell me about the RCL project.,"Project Name: RCL Site In-Charge: Engineer-4, Ot-4 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+164,Tell me about the STL PB project.,"Project Name: STL PB Site In-Charge: Engineer-7, Ot-5 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+165,Tell me about the SFBL PB-1 project.,"Project Name: SFBL PB-1 Site In-Charge: Engineer-4, Ot-7 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+166,Tell me about the TISWL Phase-2 project.,"Project Name: TISWL Phase-2 Site In-Charge: Engineer-3, Ot-4 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+167,Tell me about the RPL EB-2 project.,"Project Name: RPL EB-2 Site In-Charge: Engineer-2, Ot-4 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+168,Tell me about the STL Utility Building project.,"Project Name: STL Utility Building Site In-Charge: Engineer-1, Ot-3 Supervisor: Md. Moniruzzaman, Phone No: +8801704-118070, AGM"
+169,How many projects is Md. Moniruzzaman supervising?,"Md. Moniruzzaman is supervising the following projects: EGL, SETL Main, SFBL WH-2, RCL, STL PB, SFBL PB-1, TISWL Phase-2, RPL EB-2, STL Utility Building. In total, he is supervising 9 projects."
+170,"If I work under Md. Moniruzzaman, what kind of projects might I be assigned to?","If you work under Md. Moniruzzaman, you might be assigned to any of the following projects: EGL, SETL Main, SFBL WH-2, RCL, STL PB, SFBL PB-1, TISWL Phase-2, RPL EB-2, STL Utility Building."
+171,How many projects is Engineer-1 handling?,"Engineer-1 is handling 10 projects: Mongolaloy, Acme Noor, Zakia Abode, Nakkhatro, Suraiya, Fazilat, Nasreen Kabir Garden, Nasreen Villa, Krittika, STL Utility Building."
+172,"How many projects is Engineer-2 handling, and what are the names of the projects?","Engineer-2 is handling 2 projects: EGL, RPL EB-2."
+173,"How many projects is Engineer-3 handling, and what are the names of the projects?",Engineer-3 is handling 1 project: TISWL Phase-2.
+174,"How many projects is Engineer-4 handling, and what are the names of the projects?","Engineer-4 is handling 2 projects: RCL, SFBL PB-1."
+175,"How many projects is Engineer-5 handling, and what are the names of the projects?",Engineer-5 is handling 1 project: SETL Main.
+176,"How many projects is Engineer-7 handling, and what are the names of the projects?",Engineer-7 is handling 1 project: STL PB.
+177,"If I work under Mobashwer Ahmed, what kind of projects might I be assigned to?","If you work under Mobashwer Ahmed, you might be assigned to the following projects: Mongolaloy, Acme Noor, Zakia Abode, Nakkhatro, Suraiya, Fazilat, Nasreen Kabir Garden, Nasreen Villa, Krittika."
+178,How many projects is Mobashwer Ahmed supervising?,"Mobashwer Ahmed is supervising 9 projects: Mongolaloy, Acme Noor, Zakia Abode, Nakkhatro, Suraiya, Fazilat, Nasreen Kabir Garden, Nasreen Villa, Krittika."
+179,Is this policy applicable to both officers and employees?,"Yes, the Umrah Hajj policy applies to both officers and employees of the company."
+180,How many employees or officers can be selected for Umrah Hajj in a calendar year?,Only 2 employees or officers can be selected to perform Umrah Hajj in a calendar year.
+181,Who makes the final decision on selecting employees or officers for Umrah Hajj?,The final decision on who is selected to perform Umrah Hajj is made by the Board of Directors of the company.
+182,How is skill assessment evaluated for Umrah Hajj eligibility?,"The skill assessment is based on the company's internal evaluation system, where an officer or employee must achieve at least 80% to qualify for Umrah Hajj."
+183,Can an employee or officer be selected more than once for Umrah Hajj?,"The policy does not specify if one can be selected more than once, but it is likely that selections are prioritized for employees who have not yet had the opportunity."
+184,What expenses are covered under the Umrah Hajj policy?,The company covers all expenses related to performing the Umrah Hajj for the selected employees or officers.
+185,Does the employment period reset after being selected for Umrah Hajj?,"No, the employment period continues, and the policy remains applicable to those who meet the eligibility criteria in subsequent years."
+186,How often is this policy reviewed or updated?,"The policy is subject to review and amendment at the discretion of the Board of Directors, based on company policies and financial considerations."
+187,How many days of annual public holidays are provided by the company?,"The company provides several annual public holidays, with the exact number varying based on specific dates that depend on the lunar calendar. The holidays include: International Mother Language Day: 1 day (21st February), Independence Day: 1 day (26th March), Shab-e-Qadr: 1 day (date depends on the moon cycle), Eid Al-Fitr: 1 day (date depends on the moon cycle), Bengali New Year: 1 day (14th April), Labor Day/May Day: 1 day (1st May), Eid Al-Adha: 1 day (date depends on the moon cycle), Victory Day: 1 day (16th December). Total: Typically, there are 8 public holidays listed, but the actual number may vary due to the moon-dependent holidays."
+188,When is the holiday list published?,The company publishes a list of paid holidays at the beginning of the calendar year.
+189,Are the dates for Eid Al-Fitr and Eid Al-Adha fixed?,"No, the dates for Eid Al-Fitr and Eid Al-Adha are not fixed and depend on the lunar calendar."
+190,What is the significance of International Mother Language Day?,International Mother Language Day is observed to promote linguistic and cultural diversity and multilingualism.
+191,Are employees entitled to paid holidays on these public holidays?,"No, employees are not entitled to paid holidays on the specified public holidays listed by the company."
+192,Is there any provision for holidays not listed in the public holiday list?,"The policy primarily covers the holidays listed, but additional holidays may be granted at the discretion of the company or for special occasions."
+193,Can employees take leave on public holidays?,"Public holidays are designated days off, so employees are not expected to take leave on these days. If an employee works on a public holiday, compensation or alternate leave may be provided as per company policy."
+194,What are the office Hours During Ramadan?,"a. Office Start: 9:30 AM b. Office ends at 4:00 PM. This order will be valid only for the month of Ramadan and after the end of Ramadan, the office fasting will be enforced again as at present."
+195,What are the updated mobile bill allowances for different employee designations as per the new decision?,"The updated mobile bill allowances for different employee designations are as follows: Director: BDT 1,000, Manager: BDT 850, Deputy Manager: BDT 750, Assistant Manager: BDT 650, Senior Executive: BDT 500, Executive: BDT 350, Officers: BDT 300."
+196,Are there any additional mobile allowances for specific roles?,"Yes, the Supply Manager, Marketing Head, and Operations Branch Coordinators will receive an additional allowance of BDT 500, in addition to their regular mobile bill."
+197,What is the timeline for leave approval or disapproval?,"The superior officer must inform the employee about the approval or disapproval of the leave within 24 hours of receiving the leave application, through the HR branch."
+198,What happens if an employee goes on leave without approval?,"If an employee goes on leave without receiving approval, it will be treated as an absence, and the leave will not be considered valid."
+199,How will employees be informed about the leave approval?,Employees will be informed through the HR branch whether their leave request has been approved or disapproved by their superior officer.
+200,What is the consequence of not adhering to the leave approval policy?,"Non-compliance with the leave approval process, such as taking leave without prior approval, will result in the employee being marked as absent, which could lead to disciplinary action."
+201,When was the new Device Purchase & Use Policy implemented?,The Device Purchase & Use Policy was announced by the management of Acme Technologies Limited in 2022.
+202,What are the upgrade rules for existing desktops and laptops?,"Processor: No upgrades are allowed for existing desktops and laptops.
+Storage: A 128GB SSD can be added to slow devices alongside existing hard drives.
+RAM: Devices with 4GB RAM can be upgraded to 8GB by adding an additional 4GB.
+Display: Desktop monitors should be 18.5 inches, and laptop monitors should be 14.5 inches."
+203,What are the specifications for new desktop and laptop purchases?,"Processor: 10th-11th Gen Core i5-i7 processors.
+RAM: 8GB DDR4 for all desktops and laptops.
+Storage: 1TB hard drive, with an option to add a 128GB SSD if needed.
+Graphics Card: 4GB graphic card is required for Frontdex CPU only.
+Display: Desktop monitors should be 18.5” (one display can be 21.5”), and laptop monitors should range between 14.5"" to 15.5”.
+Keyboard & Mouse: Desktops will have wireless mice and wired keyboards, while laptops will use wireless mice."
+204,What is the lifetime of desktops and laptops?,"The maximum lifetime for desktops and laptops is 5 years. After this period, a decision will be made based on the device’s condition."
+205,Who is responsible for damage due to negligence when using a laptop outside the office?,"If a laptop is damaged due to the user’s negligence outside the office, the user will be responsible, and a fine will be imposed."
+206,What is the policy for carrying laptops home?,"Employees who take laptops home for office work must carry them at their own responsibility. If the laptop is lost or damaged, the user will bear the full cost of purchase or repair."
+207,Who decides whether an employee uses a desktop or a laptop?,"The chairman will decide who is allowed to use a laptop. All other employees will use desktops, except for special cases."
+208,How are the official activities of Acme Technologies Limited managed?,"All official activities of Acme Technologies Limited are managed through ERP software, with encrypted databases being recorded and automatically backed up to a server PC."
+209,What is the primary concern regarding server data backup?,"Since the server PC may crash at any time, a backup plan is necessary to prevent data loss. The plan includes using cloud-based storage for automatic uploads alongside regular server backups."
+210,What is the data backup schedule for Google Drive?,"Storage Capacity: 15GB of free storage.
+Backup Frequency: Twice daily.
+First Backup: 9:00 AM.
+Second Backup: 5:00 PM."
+211,What is the automatic backup schedule for the Server PC's Drive D?,"Backup Type: Automatic.
+Backup Frequency: Twice daily.
+First Backup: 9:00 AM.
+Second Backup: 5:00 PM."
+212,What is the manual backup schedule for the Server PC's Drive F?,"Backup Type: Manual.
+Backup Frequency: Once a week at 5:00 PM."
+213,Who is responsible for checking daily backups?,The HR & Admin department is responsible for checking and confirming that the daily data backups are completed on time.
+214,What role does the Pinovision company play in the backup process?,"Pinovision must confirm whether the morning’s backup includes the data from the previous day, and if the afternoon’s backup contains the latest updates."
+215,What is the policy for weekly data backups on Google Drive?,"Weekly data must be saved on Google Drive, and the previous week’s data should be deleted. This process is managed by the HR department."
+216,Where will all old and new data be stored apart from Google Drive?,"In addition to Google Drive, all old and new data will be stored at a specific storage location on the server PC for added security."
+217,What is the minimum requirement to be eligible for an increment?,An employee must have completed at least one year in the company to be eligible for an increment.
+218,What are the different types of increments and their percentages?,"General increment: 2.5% of basic salary.
+Yearly evaluation: Up to 7.5% of basic salary.
+Promotion increment: 3% of basic salary.
+Director's observations: Up to 3% of basic salary.
+Special achievements: Up to 5% of basic salary.
+Disciplinary cases: A deduction of up to 5% of basic salary."
+219,When is the next salary review scheduled?,The next salary review is conducted every year in the month of July.
+220,What is the salary range for different positions?,"Officer: BDT 16,000.
+Executive: BDT 20,000.
+Senior Executive: BDT 24,000.
+Assistant Manager: BDT 30,000.
+Deputy Manager: BDT 40,000.
+Manager: BDT 60,000.
+Assistant General Manager: BDT 80,000."
+221,What happens if my performance during probation is unsatisfactory?,"If performance during probation is unsatisfactory, the probation period may be extended or employment may be terminated at the company's discretion. Termination during probation requires one month’s notice or payment of one month’s basic salary in lieu of notice by either side. No specific reason for termination is required."
+222,How will my supervisor evaluate my performance during the probation period?,"First three months:
+Performance evaluation.
+Feedback sharing.
+Development assessment.
+Follow-up on progress.
+Next three months:
+Final evaluation.
+Feedback shared.
+Service confirmation or discontinuation if performance is unsatisfactory."
+223,What are the criteria for promotion?,"Promotion must be aligned with the company's needs.
+The employee must have completed 2 years of service since enrolment or the last promotion.
+A vacancy must be available for the promotion.
+The employee must be deemed promotable by a majority of the board members."
+224,How can I transfer my project to someone else?,"Project transfers are carried out based on the management’s decision, following an official office order according to the demand for the transfer."
+225,What is the Recruitment & Appointment Process?,"Recruitment Process:
+We post job circular on social media.
+HR Manager Sort List some eligible Candidates.
+HR Call Sort Listed Candidates For Interview.
+Interview (Written/Viva).
+HR Call Eligible Candidates after Final Selection.
+
+Appointment Process:
+HR Call Selected Candidates to Receive Their Offer Letter.
+After Joining HR provide Appointment Letter."
+226,Do you use HRM software at Acme Technologies Limited?,"We utilize ERP software, which includes an HRM module for managing human resource activities."
+227,What kind of training and development measures are taken?,"Training and development measures include regular workshops, on-the-job training, mentorship programs, and skill enhancement courses designed to improve employee competencies and performance."
+228,What should you do if you want to resign from the company?,"Employees are obliged to serve a minimum of two years after recruitment. If you leave the job before this period without providing one month’s prior notice, your salary for one month may be deducted."
+229,What is the exit interview process at Acme Technologies Limited?,"The exit interview process includes the following steps:
+Receive the Form: The HR department will provide you with an exit interview form.
+Fill Out the Form: Complete the form with your feedback and any required information.
+Schedule the Interview: Arrange a time for your exit interview with the MD and Chairman through HR.
+Attend the Interview: Participate in the scheduled interview, where you will discuss your feedback and experiences. This ensures your insights are considered before your departure."
+230,What is the turnover rate of the company?,"In 2023, the turnover rate was 74.56%."
+231,How is the job description provided?,We provide job descriptions (JDs) designated by role.
+232,How many departments are there in the company?,"The company consists of the following departments:
+Construction
+Real Estate
+Accounts
+Logistics
+Marketing
+HR
+IT
+Budget
+Audit
+Business Development (Bizdev)"
+233,Acme Technology Organogram:,"Chairman & Managing Director:
+Name: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Phone No: 01711534980
+Department: Corp HQ
+
+Director:
+Name: Brig Gen Mosharaf Hossain, Retd
+Phone No: +8801727-188357
+Department: Acme Real Estate
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Director:
+Name: Md. Firoz Alam
+Phone No: +8801711-902442
+Department: Acme Construction
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+AGM:
+Name: Md. Akharuzzaman
+Phone No: +8801704-118060
+Department: Acme Services, Logistics
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Assistant Manager:
+Name: Md. Limon Hossen Emon
+Phone No: +8801704-118054
+Department: HRM
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+AGM:
+Name: Md. Saiful Islam
+Phone No: +8801704-118057
+Department: Accounts
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Director:
+Name: Shadab Iqbal Siddique
+Phone No: +8801920-667788
+Department: Sales & Marketing
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Operation Manager:
+Name: Md. Zubaer Hossain
+Email: zubaer.acmeai@gmail.com, project@acmeai.tech
+Sister Concern: Acme AI
+Reports to:  Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Assistant Manager:
+Name: Md. Khurshed Alam
+Phone No: +8801704-118084
+Department: Budget
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+Audit Officer:
+Name: Kaniz Fatema Runa
+Phone No: +8801704-118067
+Department: Audit
+Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd
+IT Executive:
+Name: Ibrahim Khan Niloy
+Phone No: +8801704-118069
+Department: IT
+Reports to: Limon Hossen Emon
+Project Coordinator:
+Name: Mazharul Islam Mishu
+Phone No: +8801704-118071
+Department: Acme Real Estate
+Reports to: Mobashwer Ahmed
+Project Coordinator:
+Name: Senthea Rahman
+Phone No: +8801704-118073
+Department: Acme Real Estate
+Reports to: Mobashwer Ahmed
+AGM:
+Name: Mobashwer Ahmed
+Phone No: +8801704-118070
+Department: Acme Real Estate
+Reports to: Brig Gen Mosharaf Hossain, Retd
+AGM:
+Name: Md. Moniruzzaman
+Phone No: +8801329-710620
+Department: Acme Construction
+Reports to: Md. Firoz Alam
+AGM:
+Name: Kali Prosad Saha
+Phone No: +8801704-118090
+Department: Acme Construction
+Reports to: Md. Firoz Alam
+Ind Proj Coord.:
+Name: Hajera Binte Farque
+Phone No: +8801704-117072
+Department: Acme Construction
+Reports to: Md. Moniruzzaman
+Ind Proj Coord.:
+Name: Md. Dewan Salim
+Phone No: +8801704-118074
+Department: Acme Construction
+Reports to: Md. Moniruzzaman
+BizDev Engineer:
+Name: Subrata Datta
+Phone No: +88031329710624
+Department: BizDev
+Reports to: Kali Prosad Saha
+Shutter In-Charge:
+Name: Md. Zillur Rahman
+Phone No: +881 7 041 18063
+Department: Acme Services
+Reports to: Md. Akharuzzaman
+Ware House Officer: Ruble Hossian
+Phone No: +881 7 041 18063
+Department: Acme Services
+Reports to: Md. Akharuzzaman
+HR Officer:
+Name: Md. Kaiom
+Phone No: +8801704-118055
+Department: HRM
+Reports to: Md. Limon Hossen Emon
+Office Assistant:
+Name: Md. Biddut Hossain
+Phone No: +8801704-118056
+Department: HRM
+Reports to: Md. Limon Hossen Emon
+Account Officer:
+Name: Sadia Afrin Faria
+Phone No: +8801704-118058
+Department: Accounts
+Reports to: Md. Saiful Islam
+Executive:
+Name: Abdullah Al Imran
+Phone No: +8801704-118059
+Department: Accounts
+Reports to: Md. Saiful Islam
+Executive:
+Name: Sayma Akter
+Phone No: +8801704-118068
+Department: Accounts
+Reports to: Md. Saiful Islam
+
+Executive:
+Name: Asadullah Faruque
+Phone No: +8801704-118061
+Department: Logistics
+Reports to: Md. Akharuzzaman
+Asst. Manager:
+Name: Kishore Kumar Sarker
+Phone No: +8801704-118050
+Department: Sales & Marketing
+Reports to: Shadab Iqbal Siddique
+
+Reports to: Shadab Iqbal Siddique
+Mkt Officer:
+Name: Md. Minhazul Muntasir Kafi
+Phone No: +8801704-118052
+Department: Sales & Marketing
+Reports to: Shadab Iqbal Siddique
+Budget Officer:
+Name: Sabbir Hossain Mina
+Phone No: +8801704-118083
+Department: Budget
+Reports to: Md. Khurshed Alam
+"
+234,Tell me about the Chairman & Managing Director.,"The Chairman & Managing Director is Maj Gen Syed Fatemy Ahmed Roomy, Retd. His phone number is 01711534980."
+235,Tell me about the Director of Acme Real Estate.,"The Director of Acme Real Estate is Brig Gen Mosharaf Hossain, Retd. His phone number is +8801727-188357, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+236,Tell me about the Director of Acme Construction.,"The Director of Acme Construction is Md. Firoz Alam. His phone number is +8801711-902442, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+237,Tell me about the AGM in Acme Services & Logistics.,"The AGM of Acme Services & Logistics is Md. Akharuzzaman. His phone number is +8801704-118060, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+238,Tell me about the Sr. Executive in HRM.,"The Sr. Executive in HRM is Md. Limon Hossen Emon. His phone number is +8801704-118054, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+239,Tell me about the Director of Sales & Marketing.,"The Director of Sales & Marketing is Shadab Iqbal Siddique. His phone number is +8801920-667788, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+240,Tell me about the Sr. Executive in Budget.,"The Sr. Executive in Budget is Md. Khurshed Alam. His phone number is +8801704-118084, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+241,Tell me about the Audit Officer.,"The Audit Officer is Kaniz Fatema Runa. Her phone number is +8801704-118067, and she reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+242,Tell me about the IT Executive.,"The IT Executive is Ibrahim Khan Niloy. His phone number is +8801704-118069, and he reports to Maj Gen Syed Fatemy Ahmed Roomy, Retd."
+243,Tell me about the AGM in Acme Construction.,"The AGM in Acme Construction is Kali Prosad Saha & Md. Moniruzzaman. And phone number is +8801704-118090,01329710620, and both reports to Md. Firoz Alam."
+244,Tell me about the Project Coordinator in Acme Real Estate.,"There are two project coordinators in Acme Real Estate. The Project Coordinator 1 in Acme Real Estate is Mazharul Islam Mishu. His phone number is +8801704-118071, and he reports to Mobashwer Ahmed, Retd. The Project Coordinator 2 in Acme Real Estate is Senthea Rahman. Her phone number is +8801704-118073, and she reports toMobashwer Ahmed as well."
+245,Tell me about the AGM(s) in Acme Real Estate.,"There are currently One Assistant General Managers overseeing the Real Estate department, each supervising multiple projects. Their names are Mobashwer Ahmed. You can reach them at the following contact numbers: +8801704-118070 (Mobashwer Ahmed) ."
+246,Tell me about the Independent Project Coordinator(s) in Acme Construction.,"There are two project coordinators in Acme Real Construction. The Independent Project Coordinator 1 in Acme Construction is Hajera Binte Farque. Her phone number is +8801704-117072, and she reports to Md. Firoz Alam. The Independent Project Coordinator 2 in Acme Construction is Md. Dewan Salim. His phone number is +8801704-118074, and he reports to Md. Firoz Alam."
+247,Tell me about the Sr. Executive in Acme Construction.,"The Sr. Executive in Acme Construction is Subrata Datta. His phone number is +88031329710624, and he reports to Kali Prosad Saha."
+248,Tell me about the Shutter In-Charge in Acme Services.,"The Shutter In-Charge in Acme Services is Md. Zillur Rahman. His phone number is +881 7 041 18063, and he reports to Md. Akharuzzaman."
+249,Tell me about the Office Assistant.,"The Office Assistant in HRM is Md. Biddut Hossain. His phone number is +8801704-118056, and he reports to Md. Limon Hossen Emon."
+250,Tell me about the Executive in Accounts.,"The Executive in Accounts is Abdullah Al Imran. His phone number is +8801704-118059, and he reports to Md. Saiful Islam."
+251,Tell me about the Executive in Logistics.,"The Executive in Logistics is Asadullah Faruque. His phone number is +8801704-118061, and he reports to Md. Akharuzzaman."
+252,Tell me about the Assistant Manager in Sales & Marketing.,"The Assistant Manager in Sales & Marketing is Kishore Kumar Sarker. His phone number is +8801704-118050, and he reports to Shadab Iqbal Siddique."
+254,Tell me about the Marketing Officer in Sales & Marketing.,"The Marketing Officer in Sales & Marketing is Md. Minhazul Muntasir Kafi. His phone number is +8801704-118052, and he reports to Shadab Iqbal Siddique."
+255,Tell me about the Budget Officer in Budget.,"The Budget Officer in Budget is Sabbir Hossain Mina. His phone number is +8801704-118083, and he reports to Md. Khurshed Alam."
+256,Tell me about who works in the Accounts department.,"AGM: Md. Saiful Islam, Phone No: +8801704-118057, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ Account Officer: Sadia Afrin Faria, Phone No: +8801704-118058, Reports to: Md. Saiful Islam 
+ Executive: Abdullah Al Imran, Phone No: +8801704-118059, Reports to: Md. Saiful IslamExecutive:
+Name: Sayma Akter,Phone No: +8801704-118068,Reports to: Md. Saiful Islam"
+257,Tell me about who works in the Acme Real Estate department.,"Director: Brig Gen Mosharaf Hossain, Retd, Phone No: +8801727-188357, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ AGM: Mobashwer Ahmed, Phone No: +8801704-118070, Reports to: Brig Gen Mosharaf Hossain, Retd 
+ AGM: Md. Moniruzzaman, Phone No: +8801329-710620, Reports to: Brig Gen Mosharaf Hossain, Retd 
+ Project Coordinator: Mazharul Islam Mishu, Phone No: +8801704-118071, Reports to: Brig Gen Mosharaf Hossain, Retd 
+ Project Coordinator: Senthea Rahman, Phone No: +8801704-118073, Reports to: Brig Gen Mosharaf Hossain, Retd"
+258,Tell me about who works in the Sales & Marketing department.,"Director: Shadab Iqbal Siddique, Phone No: +8801920-667788, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ Assistant Manager: Abu Salim, Phone No: +8801704-118050, Reports to: Shadab Iqbal Siddique 
+ Sr. Executive: Kishore Kumar Sarker, Phone No: +8801704-118052, Reports to: Shadab Iqbal Siddique 
+ Marketing Officer: Md. Minhazul Muntasir Kafi, Phone No: +8801704-118053, Reports to: Shadab Iqbal Siddique"
+259,Tell me about who works in the Acme Services.,"AGM: Md. Akharuzzaman, Phone No: +8801704-118060, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ Shutter In-Charge: Md. Zillur Rahman, Phone No: +881 7 041 18063, Reports to: Md. Akharuzzaman 
+ Warehouse Officer: Engineer-1 & Ot-2"
+260,Tell me about who works in the Budget department.,"Sr. Executive: Md. Khurshed Alam, Phone No: +8801704-118084, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ Budget Officer: Sabbir Hossain Mina, Phone No: +8801704-118083, Reports to: Md. Khurshed Alam"
+261,Tell me about who works in the IT department.,"IT Executive: Ibrahim Khan Niloy, Phone No: +8801704-118069, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd"
+262,Tell me about who works in the Audit department.,"Audit Officer: Kaniz Fatema Runa, Phone No: +8801704-118067, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd"
+263,Tell me about who works in the Logistics department.,"AGM: Md. Akharuzzaman, Phone No: +8801704-118060, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ Executive: Asadullah Faruque, Phone No: +8801704-118061, Reports to: Md. Akharuzzaman"
+264,Tell me about who works in the Acme Construction department.,"Director: Md. Firoz Alam, Phone No: +8801711-902442, Reports to: Maj Gen Syed Fatemy Ahmed Roomy, Retd 
+ AGM: Kali Prosad Saha, Phone No: +8801704-118090, Reports to: Md. Firoz Alam 
+ Independent Project Coordinator: Hajera Binte Farque, Phone No: +8801704-117072, Reports to: Md. Firoz Alam 
+ Independent Project Coordinator: Md. Dewan Salim, Phone No: +8801704-118074, Reports to: Md. Firoz Alam 
+ Sr. Executive: Subrata Datta, Phone No: +88031329710624, Reports to: Kali Prosad Saha"
+265,"I work in the Acme Construction department, who do I report to?","You report to Md. Firoz Alam, the Director of Acme Construction. His phone number is +8801711-902442."
+266,"I work in the Acme Real Estate department, who do I report to?","You report to Brig Gen Mosharaf Hossain, Retd, the Director of Acme Real Estate. His phone number is +8801727-188357."
+267,"I work in the HRM department, who do I report to?","You report to Md. Limon Hossen Emon, the Sr. Executive in HRM. His phone number is +8801704-118054."
+268,"I work in the Accounts department, who do I report to?","You report to Md. Saiful Islam, the AGM in Accounts. His phone number is +8801704-118057."
+269,"I work in the Sales & Marketing department, who do I report to?","You report to Shadab Iqbal Siddique, the Director of Sales & Marketing. His phone number is +8801920-667788."
+270,"I work in the Acme Services, who do I report to?","You report to Md. Akharuzzaman, the AGM in Acme Services and Logistics. His phone number is +8801704-118060."
+271,"I work in the Logistics department, who do I report to?","You report to Md. Akharuzzaman, the AGM in Acme Services and Logistics. His phone number is +8801704-118060."
+272,"I work in the Audit department, who do I report to?","You report to Kaniz Fatema Runa, the Audit Officer. Her phone number is +8801704-118067."
+273,"I work in the Budget department, who do I report to?","You report to Md. Khurshed Alam, the Sr. Executive in Budget. His phone number is +8801704-118084."
+274,"I work in the IT department, who do I report to?","You report to Ibrahim Khan Niloy, the IT Executive. His phone number is +8801704-118069."
+275,What kind of work does your company do?,"The company operates in various sectors, including construction, real estate, and logistics, providing services related to project management, development, and operational support."
+276,What kind of working environment can I expect?,"You can expect a collaborative working environment with structured hours, effective communication, access to resources, a supportive culture, and potential flexibility for remote work, depending on the role and department."
+277,What are the general working hours?,The general working time is 8 hours per day.
+278,Is there overtime allowed?,"No, our company does not allow overtime."
+279,Are there facilities for staying and eating?,There are no facilities provided for staying and eating.
+280,What percentage of the Eid bonus is provided?,"Employees receive two festival bonuses each year during the two Eid festivals, each equivalent to 50% of their last drawn gross salary. For new joiners, the bonus is based on their service tenure, as follows: 
+ 0 to < 1 month: 0% 
+ 1 to < 2 months: 4.16% of gross salary 
+ 2 to < 3 months: 8.32% of gross salary 
+ 3 to < 4 months: 12.48% of gross salary 
+ 4 to < 5 months: 16.64% of gross salary 
+ 5 to < 6 months: 20.8% of gross salary 
+ 6 months and above: 50% of gross salary"
+281,Is there a provident fund or gratuity policy?,"No, we do not have a provident fund or gratuity policy."
+282,Is there extra payment for duties on weekly or public holidays?,"No, we do not provide extra payment for duties on weekly or public holidays."
+283,"What is the duration of the apprenticeship, and are there increments during regularization?","The apprenticeship duration is 6 months, and if the performance is satisfactory, increments are provided after being made permanent."
+284,What is your reporting system?,All employees need to report to their immediate senior officer.
+285,What is the main goal of this office etiquette document?,"The document aims to foster an environment of respect, discipline, and professionalism to enhance workplace efficiency and harmony."
+286,What time should I arrive at the office each day?,All employees are expected to arrive by 9:00 AM.
+287,What constitutes a valid reason for arriving late?,"Valid reasons may include medical appointments, emergencies, or unforeseen circumstances that should be communicated promptly."
+288,How should I inform my supervisor if I will be late?,"Notify your supervisor or the appropriate department through a call, text, or email as soon as you know you'll be delayed."
+289,Is there a specific protocol for requesting time off?,"Yes, submit a formal request to your supervisor at least one week in advance, if possible."
+290,What is considered appropriate office attire for men and women?,"Men should wear dress shirts, slacks, and formal shoes. Women should wear blouses, skirts or dress pants, and professional footwear."
+291,Are there any exceptions to the dress code for special events?,"Yes, special events may have specific dress codes communicated in advance."
+292,How often should personal grooming be maintained?,Personal grooming should be maintained daily to present a professional appearance.
+293,What specific grooming habits are expected in the office?,"Regular shaving, haircuts, and clean nails are expected, along with appropriate use of deodorant."
+294,Are there specific guidelines for wearing accessories?,Accessories should be minimal and not distracting; avoid large or noisy jewelry.
+295,What are the designated times for meals and breaks?,"Lunch is from 1:00 PM to 2:00 PM, and employees may have short breaks during work hours."
+296,Can I eat at my desk?,Eating at your desk is discouraged to maintain a clean workspace; designated lunch areas should be used.
+297,What is the policy regarding shared food in the office?,"Shared food should be properly labeled, and all employees should ensure cleanliness after sharing meals."
+298,How should I dispose of food waste?,Dispose of food waste in designated bins and keep the area clean.
+299,Can I heat food in the office microwave?,"Yes, but please clean the microwave after use and avoid strong-smelling foods."
+300,Are there any specific behaviors expected when using the washroom?,"Use the washroom respectfully, keep noise to a minimum, and maintain cleanliness."
+301,"What should I do if I notice a problem in the washroom (e.g., lack of supplies, maintenance issues)?",Report any issues immediately to the office management or cleaning staff.
+302,How should I handle personal items in the washroom?,"Keep personal items to a minimum, and ensure that any items used are disposed of properly."
+303,What provisions are made for employees who wish to pray?,Designated prayer areas and allotted time are provided for prayer during working hours.
+304,Can I pray at my desk?,It is encouraged to use the designated prayer area to maintain a respectful environment for all employees.
+305,What should I do if I need additional time for prayer?,Discuss any additional time requirements with your supervisor in advance.
+306,What details should I record in the guest register?,"Record the guest’s name, purpose of visit, time of arrival, and whom they are visiting."
+307,What should I do if a guest arrives unannounced?,Politely ask the guest to wait while you inform the appropriate employee of their arrival.
+308,How should I treat guests in the office?,"Greet guests warmly, offer refreshments if appropriate, and ensure they feel comfortable during their visit."
+309,Why are discussions about politics or religion discouraged?,Such discussions can lead to conflicts and are considered unprofessional in a workplace setting.
+310,How should I handle loud conversations in the office?,"Speak softly and be mindful of others; if needed, move to a designated area for discussions."
+311,What should I do if I receive a call during a meeting?,Set your phone to silent before the meeting and step out to take any urgent calls.
+312,What are the guidelines for using office supplies?,Use office supplies for work-related tasks only and ask for permission before borrowing others' items.
+313,How should I address my colleagues?,Use respectful titles and last names unless otherwise specified by the individual.
+314,What is the procedure for submitting complaints or grievances?,"Submit complaints to your supervisor or HR in a professional manner, providing clear details."
+315,How should I manage my workspace cleanliness?,"Regularly tidy your desk, dispose of trash properly, and ensure shared spaces are clean after use."
+316,How should I handle gossip in the office?,"Avoid participating in gossip, and if you hear something concerning, address it appropriately or report it."
+317,What should I do if I feel uncomfortable with a colleague's behavior?,Address the issue directly with the colleague if you feel safe doing so or report it to HR for further assistance.
+318,How can I contribute to a positive team environment?,"Support colleagues, collaborate on tasks, and communicate effectively to foster teamwork."
+319,What is the protocol for using personal devices at work?,"Limit personal device use to breaks, and ensure it does not interfere with work responsibilities."
+320,What should I do if I see someone violating office policies?,Address it directly if comfortable or report it to a supervisor or HR for appropriate action.
+321,How can I maintain work-life balance while adhering to office policies?,"Set boundaries for work hours, take regular breaks, and communicate your needs with your supervisor."
+322,Do You have Any Female Washroom for Female Employee?,We have 2 offices (Engineering Team & Headquarter). total 8 Washrooms in our Office from that female employee can use 2 washrooms.
+323,Do You have any prayer room in your office?,We don’t have any prayer rooms in our office but employees can use the conference room for prayer.
+324,Do You have Dining Room?,Both Acme Headquarter & Engineering Team have a Dining room. At a time 4 employees can sit together.
+325,What is the Fire safety Procedure?,"We use Two types of Fire Extinguisher (ABC Powder & CO2). We maintain a list where we can find All Emergency Numbers like Fire Service, Medical, Police Station etc."
+326,Did You Install any CCTV For Security?,"Yes, we have installed CCTV on Headquarter, Engineering Team Building & On our Ongoing Projects."
+327,Do You Provide Parking Facilities?,No
+328,What kind of Training and development measures are taken?,"After joining a new employee, his/her supervisor will decide what kind of training is needed for these employees. At the beginning of the year, HR will provide a Training need assessment to employees. Every employee needs to fill up the form after that HR will make a schedule for training & take necessary steps."
+329,Tell me about the ERP training program planned at Acme Technology.,"Here is what I have on the training program: Type of Training: In-house Participants: BizDev Executive, IT Executive, Budget Executive, Marketing Officer Trainer: 5-6 trainers (Based on the participants department training might vary)"
+330,Tell me about the MS Projects training program planned at Acme Technology.,"Here is what I have on the training program: Type of Training: Outsourced Participants: Resident & Industrial Coordinator, AGM, HR Department Trainer: 10-13 trainers"
+331,Tell me about the MS Excel training program planned at Acme Technology.,"Here is what I have on the training program: Type of Training: In-house Participants: Accounts Officer & Executive, Industrial Coordinator, IT Executive Trainer: 16 trainers"
+332,Tell me about the VAT & AIT training program planned at Acme Technology.,Here is what I have on the training program: Type of Training: Outsourced Participants: Accounts Department Trainer: 23 trainers
+333,Tell me about the Practical HR training program planned at Acme Technology.,Here is what I have on the training program: Type of Training: Outsourced Participants: HR Department Trainer: 14-26 trainers
+334,Tell me about the Microsoft Excel for HR and Administrative Professionals program planned at Acme Technology.,Here is what I have on the training program: Type of Training: Outsourced Participants: HR Department Trainer: 6-7 trainers
+335,What are the different training Programs planned this year?,"Currently, there are 6 training programs planned for 2024, they are listed below: ERP training program, MS Projects training program, MS Excel training program, VAT & AIT training program, Practical HR, Microsoft Excel for HR and Administrative Professionals"
+336,Who I am?,"I am a chatbot designed for ACME Technologies Ltd to answer HR-related questions about their history, departments, job opportunities, policies, allowances, projects and more"
